@@ -40,7 +40,18 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Cook the noodles in salted boiling water, about 30 seconds less than the package says (they finish in the sauce). Save some pasta water, then drain and rinse under cold water so they don't stick.",
+          "In a cold pan (no heat yet), add the peanut butter, chili flakes, green onion, sesame seeds, garlic, sugar, 1 tbsp chili crisp, rice vinegar and dark soy sauce.",
+          "Heat the neutral oil until very hot, then carefully pour it over the ingredients in the pan and stir everything together.",
+          "Add the noodles and toss to coat. For extra silky noodles, turn the heat to medium-low, add 2–3 tbsp of the pasta water and mix well.",
+          "Turn off the heat and top with more green onion, extra chili crisp and lime wedges."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -117,9 +128,91 @@
       ]
     },
     "image": "images/best-air-fryer-recipes.jpg",
-    "ingredients": [],
-    "directions": [],
-    "notes": "Air fryer round-up from NYT Cooking covering Brussels sprouts, green beans, broccoli and salmon. Open the source for each recipe."
+    "ingredients": [
+      {
+        "group": "Broccoli",
+        "items": [
+          "2 small broccoli heads (1 scant pound), cut into 1½–2 inch florets",
+          "2½ tbsp extra-virgin olive oil",
+          "2½ tsp low-sodium soy sauce",
+          "¼ tsp red-pepper flakes",
+          "1 lemon wedge",
+          "Lemon zest, sesame seeds, fish sauce, chile crisp or chile oil, for serving (optional)"
+        ]
+      },
+      {
+        "group": "Brussels sprouts",
+        "items": [
+          "1 lb Brussels sprouts",
+          "3 tbsp extra-virgin olive oil",
+          "¼ tsp kosher salt",
+          "2 garlic cloves, thinly sliced",
+          "¼ cup balsamic vinegar",
+          "1 tsp fresh lime juice, plus more for serving",
+          "½ tsp soy sauce"
+        ]
+      },
+      {
+        "group": "Green beans",
+        "items": [
+          "½ lb green beans, trimmed",
+          "1½ tbsp balsamic vinegar",
+          "1 tbsp extra-virgin olive oil",
+          "¼ tsp red-pepper flakes",
+          "2 garlic cloves, finely grated",
+          "Salt"
+        ]
+      },
+      {
+        "group": "Salmon",
+        "items": [
+          "2 (6-oz) salmon fillets, skin-on or skinless",
+          "Olive oil",
+          "Salt and pepper",
+          "1 lemon and 1 cup cherry tomatoes (optional)"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "Broccoli",
+        "steps": [
+          "Heat the air fryer to 375°F if yours needs preheating.",
+          "Toss the broccoli (including tiny stray bits, which get crunchy) with the olive oil, soy sauce and red-pepper flakes.",
+          "Move to the basket and scrape any leftover oil and soy sauce over the top. Fry at 375°F for 9 minutes, tossing halfway, until the florets are browned and crisp and the stems are tender.",
+          "Squeeze lemon over the top and add lemon zest, sesame seeds, fish sauce or chile crisp if you like."
+        ]
+      },
+      {
+        "group": "Brussels sprouts",
+        "steps": [
+          "Trim and halve the sprouts through the stems (quarter big ones). Heat the air fryer to 400°F if needed.",
+          "Put the sprouts in the basket, drizzle with 1 tbsp oil and the salt, and fry 15 minutes, shaking halfway.",
+          "Scatter the garlic over and fry 2–4 minutes more, until golden.",
+          "Meanwhile, simmer the balsamic in a small saucepan 2–3 minutes, until syrupy (watch closely so it doesn't burn). Off the heat, whisk in the remaining 2 tbsp oil, the lime juice and the soy sauce.",
+          "Drizzle the dressing over the sprouts and finish with more lime juice."
+        ]
+      },
+      {
+        "group": "Green beans",
+        "steps": [
+          "Heat the air fryer to 375°F if needed.",
+          "Toss the green beans with the vinegar, oil, red-pepper flakes, garlic (including any leftover garlic nubs) and salt, massaging the garlic onto the beans.",
+          "Move to the basket, scrape any dressing on top, and fry at 375°F for 8–10 minutes, tossing halfway, until charred in spots and tender.",
+          "Return to the bowl with any crisped garlic and sauce from the basket, season with salt, and serve hot or at room temperature."
+        ]
+      },
+      {
+        "group": "Salmon",
+        "steps": [
+          "Heat the air fryer to 400°F if needed.",
+          "Pat the salmon dry, brush all over with olive oil, and season with salt and pepper. If using, thinly slice half the lemon and toss the slices and tomatoes with 1 tbsp olive oil and salt.",
+          "Place the salmon skin-side down in the basket, top with the lemon slices and scatter the tomatoes around. Cook 5–7 minutes, flip, and cook 4–6 minutes more, until it flakes.",
+          "Squeeze the other lemon half over the top and serve."
+        ]
+      }
+    ],
+    "notes": ""
   },
   {
     "id": "chicken-noodle-soup",
@@ -1164,7 +1257,17 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Heat the oven to 425°F. Line one sheet pan with parchment and a second with a clean towel or paper towels. Gently rub the drained chickpeas dry on the towel-lined pan and leave them to dry while you prep.",
+          "On the parchment-lined pan, toss the squash with 1 tsp baharat, ½ tsp salt, the thyme, red-pepper flakes and 2 tbsp oil. Spread out and roast 20 minutes.",
+          "In a bowl, toss the chickpeas and red onion with the remaining ¾ tsp baharat, ¾ tsp salt and 1 tbsp oil. Add to the squash pan, stir, and roast 30 minutes more, tossing halfway, until the squash is golden and tender and the chickpeas are slightly crispy.",
+          "Sprinkle with the vinegar and herbs and toss. Drizzle with hot honey and toss again. Season to taste with more salt, hot honey and vinegar, and serve with dollops of yogurt."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -1777,7 +1880,28 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "Crust",
+        "steps": [
+          "Whisk the flour and salt in a large bowl.",
+          "Cut in the butter and shortening with a pastry cutter until the pieces are pea-sized.",
+          "Add the ice water a tablespoon at a time to one area of the dough, mixing with a fork and pushing the moistened part aside, just until the dough comes together (not sticky).",
+          "Gently fold the dough over a couple of times with your hands. Divide into two balls.",
+          "Roll one ball into a 12-inch circle on a lightly floured surface.",
+          "Roll it onto the rolling pin and unroll over a 9-inch pie pan. Trim to about ½-inch overhang and crimp the edges."
+        ]
+      },
+      {
+        "group": "Filling",
+        "steps": [
+          "Heat the oven to 375°F.",
+          "Whisk the eggs, milk, salt and pepper in a large bowl.",
+          "Sprinkle the ham, 1 cup of the cheese and the green onions into the crust, pour the egg mixture over, and top with the remaining ½ cup cheese.",
+          "Bake 35–40 minutes, until the center is completely set. Cool 5–10 minutes before slicing."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -1838,7 +1962,7 @@
   },
   {
     "id": "spicy-miso-coconut-broth-noodles",
-    "title": "Spicy miso coconut broth noodles",
+    "title": "Spicy Miso-Coconut Broth Noodles",
     "status": "favorite",
     "categories": [
       "entrees"
@@ -1847,13 +1971,8 @@
     "servings": "4",
     "time": "30 mins",
     "source": {
-      "label": "Half Baked Harvest",
-      "links": [
-        {
-          "text": "Half Baked Harvest",
-          "url": "https://www.halfbakedharvest.com/miso-chicken-katsu-ramen/"
-        }
-      ]
+      "label": "Half Baked Harvest (cookbook)",
+      "links": []
     },
     "image": "images/spicy-miso-coconut-broth-noodles.jpg",
     "ingredients": [
@@ -1889,8 +2008,19 @@
         ]
       }
     ],
-    "directions": [],
-    "notes": ""
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Melt the ghee in a Dutch oven over medium-high. Add the mushrooms, garlic, shallots and ginger and season with red pepper flakes. Cook, stirring, about 2 minutes, until fragrant and starting to soften.",
+          "Pour in the broth, coconut milk and tamari, then whisk in the miso and chili paste until smooth. Simmer on low, stirring occasionally, about 10 minutes.",
+          "Stir in the noodles, spinach and sesame oil and cook 1–2 minutes, until the noodles are hot and the spinach wilts.",
+          "Meanwhile, make the sesame crunch: melt the ghee in a small skillet over medium-high. Add the panko, sesame seeds and garlic and cook, stirring often, 3–4 minutes, until lightly toasted. Off the heat, stir in the nori and season with salt.",
+          "Ladle the broth and noodles into bowls, spoon the sesame crunch on top, and finish with green onions and more sesame oil."
+        ]
+      }
+    ],
+    "notes": "Store leftover noodles and broth separately, since the noodles soak up the liquid as they sit."
   },
   {
     "id": "empanadas",
@@ -2378,8 +2508,28 @@
         ]
       }
     ],
-    "directions": [],
-    "notes": ""
+    "directions": [
+      {
+        "group": "Cake",
+        "steps": [
+          "Heat the oven to 325°F. Butter and flour a 9 x 5-inch loaf pan. Sift the flour and baking powder together.",
+          "Beat the butter and cream cheese on medium until blended. Gradually add the sugar and beat 5 minutes, until pale and fluffy. Add the eggs about a quarter at a time, mixing fully between additions.",
+          "Mix in the lime zest. Add the flour mixture alternately with the lime juice (juice in two additions), starting and ending with flour, mixing just until combined.",
+          "Pour into the pan, stopping ¾ inch from the top (don't use extra batter or it may overflow). Tap the pan firmly on the counter a few times.",
+          "Bake about 1 hour, until just set in the middle. Check at 30 minutes and tent with foil if the top is browning too fast. If it isn't set after an hour, keep baking and check every 5 minutes.",
+          "Cool in the pan 20 minutes, loosen the edges and turn out onto a plate with a raised rim."
+        ]
+      },
+      {
+        "group": "Glaze",
+        "steps": [
+          "Beat the cream cheese and butter until blended and a little fluffy, about 2 minutes. On low, gradually add the confectioners' sugar, then beat 20–30 seconds.",
+          "Mix in the lime juice, then microwave a minute or more until very warm and loose.",
+          "Poke holes all over the cake with a skewer. Pour half the glaze over, wait 10 minutes, pour on the rest and sprinkle with lime zest."
+        ]
+      }
+    ],
+    "notes": "Can be doubled for 2 loaves or a 10 x 4-inch tube pan (not a smaller Bundt pan). The glaze amount covers 2 loaves without doubling."
   },
   {
     "id": "strawberry-cake",
@@ -2701,7 +2851,39 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "Lemon cake",
+        "steps": [
+          "Heat the oven to 350°F.",
+          "Rub the sugar and lemon zest together with your fingers in a large bowl until the sugar feels moist, about 1 minute.",
+          "Whisk in the olive oil, then the eggs until well combined.",
+          "Add the milk, vanilla and salt and whisk about 2 minutes, until the sugar dissolves.",
+          "Whisk in the flour and baking powder just until combined, then give it 20 more turns around the bowl.",
+          "Lightly coat a 13 x 9-inch metal pan with cooking spray and pour in the batter.",
+          "Bake 30–35 minutes, until a skewer in the center comes out clean.",
+          "Cool in the pan on a rack 10 minutes, then invert onto the rack and poke the cake all over 15–20 times with a skewer or fork.",
+          "Stir the honey and lemon juice until smooth and brush or drizzle over the warm cake. Cool completely, about 1 hour."
+        ]
+      },
+      {
+        "group": "Cream cheese frosting",
+        "steps": [
+          "Beat the cream cheese, lemon zest and juice, and a pinch of salt on medium-high until smooth, about 30 seconds.",
+          "Add the butter and beat on high until pale and fluffy, about 1 minute, scraping the bowl as needed.",
+          "On low, gradually add the powdered sugar, then beat on high until fluffy, about 2 minutes."
+        ]
+      },
+      {
+        "group": "Assemble",
+        "steps": [
+          "Move the cake to a parchment-lined baking sheet and spread 1½ cups frosting over the top.",
+          "Refrigerate uncovered until the frosting firms, about 15 minutes.",
+          "Cut the cake in half crosswise and stack the halves. Frost the top and sides with the rest.",
+          "Refrigerate uncovered 30 minutes (or covered up to 3 days). Serve chilled."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -2804,6 +2986,15 @@
     ],
     "directions": [
       {
+        "group": "Crust",
+        "steps": [
+          "This pie has a top and bottom crust, so make two batches of the crust (double all crust ingredients).",
+          "Combine the flour and salt. Add the shortening and mix with a fork or pastry blender until very crumbly.",
+          "Sprinkle in the ice-cold water 1 tbsp at a time, stirring lightly after each, just until a little dough holds together when squeezed. You may not need it all.",
+          "Shape into two discs. Wrap and chill until ready to roll (up to 2 days in the fridge or 3 months frozen)."
+        ]
+      },
+      {
         "group": "Filling",
         "steps": [
           "Peel, core and slice the apples into ½-inch slices.",
@@ -2823,7 +3014,7 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "For a richer crust, use butter-flavored shortening or replace half the shortening with butter."
   },
   {
     "id": "lemon-berry-glazed",
@@ -2870,7 +3061,19 @@
         ]
       }
     ],
-    "directions": [],
-    "notes": ""
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Heat the oven to 350°F. Rub a 10-inch cast-iron skillet generously with olive oil (or oil, flour and line a 10-inch cake pan with a parchment round).",
+          "Combine the flour, baking powder and salt in a medium bowl.",
+          "In a large bowl, rub the lemon zest into 1 cup sugar with your fingers. Whisk in the eggs and olive oil, then the lemon juice and vanilla.",
+          "Stir the dry ingredients into the wet in three additions, alternating with the milk, without overmixing. Add the berries with the last addition of dry ingredients (if frozen, fold them in at the very end so they don't stain the batter).",
+          "Pour into the skillet, sprinkle with the remaining 2–3 tsp sugar, and bake 30–35 minutes, until lightly browned at the edges and springy in the middle.",
+          "Cool completely in the pan. Dust with powdered sugar, or whisk the 1 cup powdered sugar with 2 tbsp lemon juice and pour over the top."
+        ]
+      }
+    ],
+    "notes": "Keep covered at room temperature for up to 3 days, then refrigerate for up to 2 more."
   }
 ]
