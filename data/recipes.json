@@ -73,11 +73,28 @@
           "1 large garlic clove, finely grated",
           "1 pound ground beef (preferably 80 percent lean) or ground lamb",
           "1 small yellow onion, grated on the large holes of a box grater (see Tips)",
-          "½ teaspoon ground turmeric"
+          "½ teaspoon ground turmeric",
+          "2 tsp kosher salt, divided",
+          "Freshly ground black pepper",
+          "¼ cup walnut halves or pieces",
+          "2 tbsp raisins or dried cranberries",
+          "Pomegranate molasses, for serving (optional)",
+          "Warm pita or white rice, for serving"
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Mix the yogurt, grated cucumber, chopped mint and garlic in a bowl, then refrigerate.",
+          "In another bowl, mix the beef, grated onion, turmeric, 1 tsp salt and plenty of pepper.",
+          "Heat a cast-iron or heavy skillet over medium-high until very hot. Break the meat into large rough chunks into the pan and leave it alone 6–8 minutes, until charred and crisp underneath.",
+          "Toss and break up any big pieces, add the walnuts and raisins, and cook 2–3 minutes more, stirring, until the meat is done and the walnuts are toasted.",
+          "Season the yogurt with the remaining 1 tsp salt and spread it on a platter. Top with the meat, a drizzle of pomegranate molasses and mint leaves. Serve with pita or rice."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -145,7 +162,21 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Set the Instant Pot to sauté and melt the butter. Add the onion, carrots and celery and cook about 3 minutes, until the onion softens.",
+          "Season with the salt and pepper, then stir in the thyme, parsley, oregano and bouillon.",
+          "Add the broth, chicken and water. Don't add the noodles yet.",
+          "Seal the lid and cook on Soup (or Manual, high pressure) for 7 minutes.",
+          "Let the pressure release naturally for about 10 minutes, then open the lid.",
+          "Take out the chicken and shred it with two forks.",
+          "Add the egg noodles, switch back to sauté and cook uncovered about 6 minutes, until tender.",
+          "Turn off the pot, return the chicken, and adjust the seasoning."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -199,7 +230,36 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "Sauce",
+        "steps": [
+          "Stir the peanut butter, soy sauce, sriracha, rice vinegar, lime juice and ginger until smooth, then mix in the water a little at a time. Keep it fairly thick."
+        ]
+      },
+      {
+        "group": "Roast",
+        "steps": [
+          "Heat the oven to 200°C/390°F.",
+          "Cut the tofu into about 1-inch cubes, toss with a few spoonfuls of the sauce, and spread on a lined baking sheet.",
+          "Toss the broccoli florets with the sesame oil, salt and pepper. Toss the chickpeas with the olive oil, chili powder, garlic granules, salt and pepper. Spread both on baking sheets.",
+          "Bake the tofu, broccoli and chickpeas for 15 minutes, turning halfway."
+        ]
+      },
+      {
+        "group": "Quinoa & veg",
+        "steps": [
+          "Simmer the quinoa with 375 ml (1½ cups) water and a pinch of salt, covered, for 15 minutes.",
+          "Thinly slice the zucchini and red cabbage."
+        ]
+      },
+      {
+        "group": "Assemble",
+        "steps": [
+          "Fill bowls with spinach, quinoa, tofu, broccoli, chickpeas, zucchini and cabbage. Drizzle with the remaining sauce and top with cilantro, green onion and sesame seeds."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -239,7 +299,17 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Remove the skin, pat the salmon dry and cut it into 1–2 inch cubes.",
+          "Mix the brown sugar, both paprikas, chili powder, onion powder, garlic powder, cornstarch and salt.",
+          "Toss the salmon with the oil and the spice mix.",
+          "Spread in the air fryer without overlapping and cook at 400°F for 8 minutes (6–7 for medium), until golden and flaky."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -459,7 +529,18 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Make the air fryer tofu (separate recipe).",
+          "Toss the broccoli with the sesame oil, salt and pepper. Air fry or roast the broccoli and chickpeas (about 15 minutes at 200°C/390°F, turning halfway).",
+          "Simmer the quinoa with 375 ml (1½ cups) water and a pinch of salt, covered, for 15 minutes.",
+          "Thinly slice the zucchini and red cabbage.",
+          "Fill bowls with spinach, quinoa, tofu, broccoli, chickpeas, zucchini and cabbage, and top with cilantro, green onion and sesame seeds."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -509,7 +590,18 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Blend all the basil ranch ingredients until smooth and season with salt and pepper.",
+          "Heat the oven to 400°F. Lay the prosciutto flat on a lined baking sheet and bake 8–10 minutes, until crisp.",
+          "Cook the pasta in salted boiling water until al dente, adding the broccoli for the last 2 minutes. Drain.",
+          "Toss the hot pasta with the dressing, then add the corn and pesto and toss again.",
+          "Serve warm or cold, topped with the burrata and crumbled prosciutto just before serving."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -652,7 +744,18 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Soak the cranberries in the boiling water for about 10 minutes, then drain.",
+          "Pulse the cauliflower in a food processor in batches of about 2 cups, roughly 10 seconds each, until couscous-sized.",
+          "Melt 2 tbsp butter in a large skillet over medium-high. Cook the shallot and garlic about 1½ minutes. Spread the cauliflower in an even layer and leave it 5 minutes to brown, then stir and cook about 2 minutes more, until tender.",
+          "Add the cranberries, kale, half the almonds and the salt. Cover and cook about 2 minutes, until the kale is bright green. Stir in the sherry vinegar and move to a serving bowl.",
+          "In the same pan, cook the green onions, remaining 1 tbsp butter and remaining almonds for about 1 minute. Spoon over the couscous and serve warm."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -695,7 +798,20 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Cook the bow ties in well-salted boiling water until al dente. Drain and return to the pot.",
+          "Warm the olive oil in a large skillet over medium heat and cook the garlic for 1 minute.",
+          "Add the cream and cream cheese and stir until melted.",
+          "Whisk in the Parmesan until smooth.",
+          "Fold in the artichokes, sun-dried tomatoes and kale, and season with salt and pepper.",
+          "Pour the sauce over the pasta and toss gently.",
+          "Serve topped with the toasted walnuts and chives."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -779,7 +895,19 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Warm the olive oil and garlic in a large pot over medium-low for about 4 minutes, until the garlic starts to brown.",
+          "Add the tomatoes and 2 cups broth, bring to a gentle boil over medium, then lower the heat.",
+          "Season with the salt and pepper, then slowly stir in the cream.",
+          "Add up to 1 more cup of broth for a thinner soup, then add the basil leaves.",
+          "Blend until smooth with an immersion blender (or carefully in batches in a blender).",
+          "Serve with a drizzle of olive oil and sliced basil."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -922,7 +1050,21 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Heat the oven to 425°F. Halve and seed the squash and roast it on a lined sheet for 35–45 minutes, until fork-tender.",
+          "Scoop out the flesh and blend 2 cups of it with the ¼ cup milk, thyme and sage until very smooth.",
+          "Cook the rigatoni in heavily salted water until al dente. Save 2 cups of pasta water, then drain.",
+          "Mix the garlic powder, onion powder, smoked paprika, salt, pepper, nutmeg and cayenne.",
+          "Melt the butter in a deep skillet over medium heat, add half the spice mix, then whisk in the flour. Slowly whisk in the ¾ cup milk until smooth.",
+          "Stir in the rest of the spices, the Dijon and the squash purée, and simmer on low.",
+          "Add the cheeses in two batches with splashes of pasta water, stirring until melted and smooth.",
+          "Fold in the pasta, adding pasta water as needed so the sauce coats everything. Serve warm."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -970,7 +1112,17 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Toast the pecans in a dry skillet over medium heat for about 5 minutes, stirring, until fragrant.",
+          "Combine the greens, pecans, pears, grapes, cranberries, red onion and goat cheese in a large bowl.",
+          "Shake the maple syrup, Dijon, balsamic and olive oil in a lidded jar until combined, then season with salt and pepper.",
+          "Toss the salad with half the dressing, adding more to taste."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -1065,7 +1217,19 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Cut all the vegetables into bite-sized pieces (keep the broccoli small).",
+          "Whisk the sauce ingredients together until smooth.",
+          "Heat 1 tbsp oil in a large skillet over medium-high and cook the chicken 6–8 minutes, breaking it up, until cooked through. Move it to a plate.",
+          "Add the rest of the oil and cook the onion for about 1 minute.",
+          "Add the snow peas, bell pepper, broccoli and carrots and cook 3–4 minutes, until crisp-tender.",
+          "Return the chicken, add the cashews, pour in the sauce and stir for under a minute until thickened. Serve right away."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -1108,7 +1272,16 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Heat the oil in a large skillet over medium-high. Brown the beef with the onion, breaking it up, then stir in 3 tsp chili powder, 1 tsp cumin, salt and pepper. Add the garlic for the last minute. Move to a plate and wipe out the pan.",
+          "Add the sweet potatoes, tomatoes, green chiles, water, the remaining 2 tsp chili powder and 1 tsp cumin, salt and pepper. Cover and simmer on lower heat about 20 minutes, until the potatoes are tender.",
+          "Stir the beef back in, sprinkle with the cheddar, cover about 1 minute to melt, and top with cilantro."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -1357,7 +1530,19 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Heat the oven to 425°F.",
+          "Spread the squash, Brussels sprouts, red onion and sausage on a large rimmed baking sheet.",
+          "Whisk the olive oil, maple syrup, rosemary, salt and pepper, pour over the pan and toss.",
+          "Roast 30 minutes, stirring halfway, until tender and caramelized.",
+          "Meanwhile, mix the tahini, balsamic, garlic powder, salt and pepper, adding the water a tablespoon at a time until creamy.",
+          "Drizzle half the sauce over the pan and serve over quinoa and arugula with the rest."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -1401,7 +1586,19 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Heat the oil in a large pan over medium and soften the onion and bell pepper.",
+          "Add the beef and cook until browned. Drain the fat and season with salt and pepper.",
+          "Stir in the salsa, black beans, corn, tomatoes, green chiles, rice, taco seasoning and chili powder.",
+          "Add the stock and bring to a light boil.",
+          "Cover, turn the heat to low and cook about 15 minutes, until the rice is tender.",
+          "Stir, adjust the seasoning, top with the cheese and cover 5 minutes to melt. Serve with your favorite toppings."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -1437,7 +1634,18 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Whisk ¼ cup light mayo with ¼ cup Miracle Whip for the sauce (or ⅓ cup mayo, ½ tsp mustard and ½ tsp garlic powder).",
+          "Mix the ground chicken with the garlic powder, salt and pepper.",
+          "Spread a thin layer of chicken over one side of each tortilla and sprinkle with breadcrumbs.",
+          "Cook chicken-side down in a lightly oiled skillet over medium-high for 3–4 minutes, until golden and cooked through. Flip and crisp the tortilla 2–3 minutes.",
+          "Spread with sauce, top with lettuce, fold and serve."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -1613,7 +1821,19 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Heat the broiler.",
+          "Put the salmon on a baking sheet, coat with the olive oil, curry powder, salt and pepper, and drizzle with the honey. Broil 3–5 minutes, watching closely, until crisp on top.",
+          "In a large skillet over medium heat, melt 1 tbsp butter with the curry paste and ginger and cook 2–3 minutes, until fragrant. Stir in the broccoli, coconut milk, tamari and fish sauce.",
+          "Nestle the salmon into the sauce and simmer 3–5 minutes, until done to your liking.",
+          "Meanwhile, melt the remaining 5 tbsp butter with the garlic and a pinch of chili flakes until the butter browns and the garlic crisps.",
+          "Serve the salmon and sauce over rice, drizzled with the garlic butter."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -1628,7 +1848,12 @@
     "time": "30 mins",
     "source": {
       "label": "Half Baked Harvest",
-      "links": []
+      "links": [
+        {
+          "text": "Half Baked Harvest",
+          "url": "https://www.halfbakedharvest.com/miso-chicken-katsu-ramen/"
+        }
+      ]
     },
     "image": "images/spicy-miso-coconut-broth-noodles.jpg",
     "ingredients": [
@@ -1936,7 +2161,19 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Mix the herbed ricotta ingredients and refrigerate.",
+          "Heat the oven to 400°F. Slice the sweet potato into rounds ¼–½ inch thick.",
+          "Rub the rounds with the avocado oil, salt and cinnamon, spread on a baking sheet and bake 20 minutes.",
+          "Flip and bake 17–20 minutes more, until cooked through with crisp edges. Roast the walnuts on a separate sheet for the last 8–10 minutes, then chop them.",
+          "Turn the broiler to high. Top each round with ricotta and broil about 2 minutes, until warm.",
+          "Sprinkle with the walnuts and cranberries and drizzle with honey."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -1947,7 +2184,7 @@
       "breakfast"
     ],
     "vegetarian": true,
-    "servings": "9 little cups",
+    "servings": "12 cups",
     "time": "40 mins",
     "source": {
       "label": "IG Choosing Balance",
@@ -1988,8 +2225,8 @@
         "steps": [
           "Preheat oven to 350F.",
           "In a bowl, mash the bananas.",
-          "Add in the other ingredients and stir together well. Use a spoon or spatula, not a hand mixer. This makes 24 cups.",
-          "Spray two 12-cup muffin tins with nonstick spray.",
+          "Add in the other ingredients and stir together well. Use a spoon or spatula, not a hand mixer. This makes 12 cups.",
+          "Spray a 12-cup muffin tin with nonstick spray.",
           "Add about 3 spoonfuls of the oatmeal mix to each cup, so they are about 3/4 full.",
           "Add toppings.",
           "Bake for 25–28 minutes, let cool for 10, then remove and enjoy!"
@@ -2062,7 +2299,7 @@
       "links": [
         {
           "text": "Love & Lemons",
-          "url": "https://www.loveandlemons.com/granola-bars-recipe/"
+          "url": "https://www.instagram.com/reel/DUjG3QpkQXa/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
         }
       ]
     },
@@ -2183,7 +2420,20 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Heat the oven to 350°F. Grease a 9-inch cake pan and line the bottom with parchment.",
+          "Whisk the flour, baking powder and salt.",
+          "Beat the butter, both sugars and vanilla on medium-high about 5 minutes, until light and fluffy.",
+          "Beat in the eggs one at a time.",
+          "On low, add half the flour mixture, then half the buttermilk, then repeat, mixing just until combined.",
+          "Fold in half the strawberries, spread in the pan, scatter the rest on top and sprinkle with the demerara sugar.",
+          "Bake 45–50 minutes, until deep golden and springy in the center. Cool completely."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -2224,7 +2474,18 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Heat the oven to 350°F. Spray a 9-inch round cake pan and line it with parchment.",
+          "Whisk the flour, baking powder and salt in a large bowl.",
+          "In another bowl, whisk the ricotta, 1 cup (220g) of the sugar, zest, eggs and vanilla until smooth. Fold into the dry ingredients, then fold in the melted butter and half the berries, crushing them a little.",
+          "Spread in the pan, scatter the remaining berries on top and sprinkle with the remaining ¼ cup (55g) sugar.",
+          "Bake 55–65 minutes, until golden and a toothpick comes out clean. Cool at least 20 minutes before unmolding."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -2270,7 +2531,26 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "Crust",
+        "steps": [
+          "Heat the oven to 325°F. Crush the wafers or graham crackers into coarse crumbs.",
+          "Mix the crumbs with the brown sugar, melted butter and salt until it feels like damp sand.",
+          "Press firmly into the bottom and up the sides of a 9-inch pie plate or springform pan.",
+          "Bake 10–12 minutes, until the edges are lightly golden."
+        ]
+      },
+      {
+        "group": "Filling",
+        "steps": [
+          "In a food processor, blend the cream cheese, sour cream and sugar until very smooth. Add the eggs, zest and salt and blend until lump-free.",
+          "Pour into the crust and bake until mostly set with a slight wobble in the center: 20–30 minutes in a pie plate, 25–35 in a springform.",
+          "Turn off the oven, crack the door and leave the cheesecake inside about 20 minutes. Cool 30 minutes at room temperature, then refrigerate about 2 hours.",
+          "Top with thin citrus slices before serving."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -2308,7 +2588,19 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Heat the oven to 350°F. Grease a 9 x 13-inch glass baking dish.",
+          "Mix the flour, melted butter, powdered sugar and salt with a fork just until it comes together, then press evenly into the dish.",
+          "Bake about 20 minutes, until the edges are very lightly browned.",
+          "Meanwhile, whisk the granulated sugar, eggs and lemon juice until smooth.",
+          "Pour over the hot crust and bake 15 minutes. Loosely cover with foil and bake about 15 minutes more, until the center is set.",
+          "Dust with powdered sugar and cool completely in the pan before cutting into 15 bars."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -2348,7 +2640,18 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Heat the oven to 425°F and line a baking sheet with parchment.",
+          "Stir the cream and sour cream together. In a large bowl, whisk the flour, sugar, baking powder and salt.",
+          "Rub the cold butter into the dry ingredients until it forms flat flakes. Fold in the fruit, stir in the cream mixture, and knead a few times into a shaggy dough.",
+          "Pat into a 6 x 9-inch rectangle, 1½–2 inches thick. Cut into 4 pieces, then each diagonally, for 8 triangles. Space them on the sheet (chill 20–30 minutes for fluffier scones).",
+          "Brush with cream, sprinkle with sugar, and bake 25–30 minutes, until golden on top and bottom. Finish with flaky salt."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
@@ -2499,7 +2802,27 @@
         ]
       }
     ],
-    "directions": [],
+    "directions": [
+      {
+        "group": "Filling",
+        "steps": [
+          "Peel, core and slice the apples into ½-inch slices.",
+          "Toss the apples with both sugars, flour, cinnamon, nutmeg, lemon juice and zest."
+        ]
+      },
+      {
+        "group": "Assemble & bake",
+        "steps": [
+          "Heat the oven to 400°F with a rack in the center. Let the chilled dough sit out 5–10 minutes.",
+          "Roll one disc into a 12-inch circle about ⅛ inch thick and fit it into a deep-dish pie plate.",
+          "Spoon in the apples, leaving the liquid behind.",
+          "Roll out the second disc, lay it over the filling, trim, then press and tuck the edges together.",
+          "Cut 4 slits in the top, set the pie on a baking sheet, brush with the beaten egg, and cover the edges with foil.",
+          "Bake 25 minutes at 400°F. Remove the foil, lower to 375°F and bake 30–35 minutes more, until golden and bubbling.",
+          "Cool at least 3 hours before slicing."
+        ]
+      }
+    ],
     "notes": ""
   },
   {
