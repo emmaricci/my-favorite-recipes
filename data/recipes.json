@@ -3,6 +3,9 @@
     "id": "peanut-chili-noodles",
     "title": "Peanut Chili Noodles",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -58,6 +61,9 @@
     "id": "smashed-beef-kebab-with-cucumber-yogurt",
     "title": "Smashed Beef Kebab With Cucumber Yogurt",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -112,6 +118,9 @@
     "id": "best-air-fryer-recipes",
     "title": "Best Air Fryer Recipes",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "appsides"
     ],
@@ -218,6 +227,9 @@
     "id": "chicken-noodle-soup",
     "title": "Chicken Noodle Soup",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -276,6 +288,9 @@
     "id": "tofu-buddha-bowl",
     "title": "Tofu Buddha Bowl",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -359,6 +374,9 @@
     "id": "air-fryer-salmon",
     "title": "Air Fryer Salmon",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -409,6 +427,9 @@
     "id": "bang-bang-chicken",
     "title": "Bang Bang Chicken",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -467,6 +488,9 @@
     "id": "crispy-cheesy-chicken-tacos",
     "title": "Crispy Cheesy Chicken Tacos",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -542,6 +566,9 @@
     "id": "air-fryer-tofu",
     "title": "Air Fryer Tofu",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -590,6 +617,9 @@
     "id": "buddha-bowl",
     "title": "Buddha Bowl",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -640,6 +670,9 @@
     "id": "broccoli-burrata-pasta",
     "title": "Broccoli Burrata Pasta",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -701,6 +734,9 @@
     "id": "high-protein-creamy-tomato-and-basil-beans",
     "title": "High protein creamy tomato and basil beans",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -752,6 +788,9 @@
     "id": "creamy-chickpea-spring-greens-pasta",
     "title": "Creamy chickpea spring greens pasta",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -802,6 +841,9 @@
     "id": "cauliflower-couscous",
     "title": "Cauliflower Couscous",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "appsides",
       "entrees"
@@ -855,6 +897,9 @@
     "id": "pasta-with-kale-sun-dried-tomatoes",
     "title": "Pasta with Kale & Sun-Dried Tomatoes",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -911,6 +956,9 @@
     "id": "butternut-squash-soup",
     "title": "Butternut Squash Soup",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -957,6 +1005,9 @@
     "id": "tomato-basil-soup",
     "title": "Tomato Basil Soup",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1007,6 +1058,9 @@
     "id": "risotto-alla-milanese",
     "title": "Risotto alla milanese",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1053,6 +1107,9 @@
     "id": "pomodori-ripieni",
     "title": "Pomodori Ripieni",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1101,6 +1158,9 @@
     "id": "butternut-squash-mac-cheese",
     "title": "Butternut Squash Mac & Cheese",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1164,6 +1224,9 @@
     "id": "autumn-salad",
     "title": "Autumn Salad",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees",
       "appsides"
@@ -1222,6 +1285,9 @@
     "id": "roasted-honey-nut-squash-chickpeas",
     "title": "Roasted Honey Nut Squash & Chickpeas",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1274,6 +1340,9 @@
     "id": "ground-chicken-stir-fry",
     "title": "Ground chicken stir fry",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1339,6 +1408,9 @@
     "id": "southwest-ground-beef-and-sweet-potato-skillet",
     "title": "Southwest Ground Beef and Sweet Potato Skillet",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1391,6 +1463,9 @@
     "id": "stuffed-peppers",
     "title": "Stuffed Peppers",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1443,6 +1518,9 @@
     "id": "meatloaf",
     "title": "Meatloaf",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1495,6 +1573,9 @@
     "id": "pizza",
     "title": "Pizza",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1543,6 +1624,9 @@
     "id": "ragu-pasta",
     "title": "Ragù Pasta",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1590,6 +1674,9 @@
     "id": "sheet-pan-chicken-sausage-veggies",
     "title": "Sheet Pan Chicken Sausage & Veggies",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1652,6 +1739,9 @@
     "id": "burrito-bowl",
     "title": "Burrito Bowl",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1708,6 +1798,9 @@
     "id": "mcchicken-smash-tacos-recipe",
     "title": "McChicken Smash Tacos Recipe",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1755,6 +1848,9 @@
     "id": "mexican-indian-tacos",
     "title": "Mexican-Indian Tacos",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1834,6 +1930,9 @@
     "id": "quiche",
     "title": "Quiche",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "breakfast",
       "entrees"
@@ -1908,6 +2007,9 @@
     "id": "coconut-curry-salmon-with-garlic-butter",
     "title": "Coconut Curry Salmon with Garlic Butter",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -1964,6 +2066,9 @@
     "id": "spicy-miso-coconut-broth-noodles",
     "title": "Spicy Miso-Coconut Broth Noodles",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -2026,6 +2131,9 @@
     "id": "empanadas",
     "title": "Empanadas",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -2088,6 +2196,9 @@
     "id": "lasagne",
     "title": "Lasagne",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -2137,6 +2248,9 @@
     "id": "brodo",
     "title": "Brodo",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -2176,6 +2290,9 @@
     "id": "chicken-bbq-marinade",
     "title": "Chicken BBQ Marinade",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "entrees"
     ],
@@ -2213,6 +2330,9 @@
     "id": "chickpeas-in-mediterranean-marinade",
     "title": "Chickpeas in Mediterranean Marinade",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "appsides",
       "snack"
@@ -2248,6 +2368,9 @@
     "id": "sweet-potato-rounds-herbed-ricotta-walnuts",
     "title": "Sweet potato rounds: herbed ricotta & walnuts",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "appsides"
     ],
@@ -2310,6 +2433,9 @@
     "id": "oatmeal-cups",
     "title": "Oatmeal Cups",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "breakfast"
     ],
@@ -2369,6 +2495,9 @@
     "id": "homemade-granola-bars",
     "title": "Homemade granola bars",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "snack",
       "breakfast"
@@ -2417,6 +2546,9 @@
     "id": "pb-j-oat-cups",
     "title": "PB&J Oat Cups",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "snack",
       "breakfast"
@@ -2467,6 +2599,9 @@
     "id": "key-lime-pound-cake",
     "title": "Key Lime Pound Cake",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "dessert"
     ],
@@ -2535,6 +2670,9 @@
     "id": "strawberry-cake",
     "title": "Strawberry Cake",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "dessert"
     ],
@@ -2590,6 +2728,9 @@
     "id": "raspberry-ricotta-cake",
     "title": "Raspberry Ricotta Cake",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "dessert"
     ],
@@ -2642,6 +2783,9 @@
     "id": "citrusy-cheesecake",
     "title": "Citrusy Cheesecake",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "dessert"
     ],
@@ -2707,6 +2851,9 @@
     "id": "lemon-bars",
     "title": "Lemon Bars",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "dessert"
     ],
@@ -2757,6 +2904,9 @@
     "id": "sweet-enough-scones",
     "title": "Sweet Enough Scones",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "breakfast",
       "dessert"
@@ -2808,6 +2958,9 @@
     "id": "lemon-cake-with-cream-cheese-frosting",
     "title": "Lemon cake with cream cheese frosting",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "dessert"
     ],
@@ -2890,6 +3043,9 @@
     "id": "torta-mantovana",
     "title": "Torta Mantovana",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "dessert"
     ],
@@ -2940,6 +3096,9 @@
     "id": "apple-pie",
     "title": "Apple Pie",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "dessert"
     ],
@@ -3020,6 +3179,9 @@
     "id": "lemon-berry-glazed",
     "title": "Lemon Berry Glazed",
     "status": "favorite",
+    "owners": [
+      "emma"
+    ],
     "categories": [
       "dessert"
     ],
