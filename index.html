@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0A1931">
+  <title>my Recipes</title>
+  <!-- Fonts: Caveat (handwritten accents), Lora (serif titles/body), Manrope (labels) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=Lora:ital,wght@0,400;0,600;1,400&family=Manrope:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- The whole site is one page; app.js swaps between the home view and a recipe view
+       based on the URL hash (#/recipe/<id>), so links to single recipes can be shared. -->
+  <main id="app" aria-live="polite"></main>
+  <noscript>This site needs JavaScript turned on to show recipes.</noscript>
+  <script src="app.js"></script>
+</body>
+</html>

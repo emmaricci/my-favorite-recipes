@@ -1,0 +1,2553 @@
+[
+  {
+    "id": "peanut-chili-noodles",
+    "title": "Peanut Chili Noodles",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": "3-4",
+    "time": "40 mins",
+    "source": {
+      "label": "Instagram",
+      "links": [
+        {
+          "text": "Instagram",
+          "url": "https://www.instagram.com/reel/DXcmh4VEp5j/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        }
+      ]
+    },
+    "image": "images/peanut-chili-noodles.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "9 oz (250 g) hand-cut thick noodles (or any noodles you like)",
+          "1.5 tbsp peanut butter",
+          "1 tsp chili flakes (optional)",
+          "1/3 cup fresh green onion, sliced",
+          "2 tsp sesame seeds",
+          "5 garlic cloves, minced",
+          "1 tbsp white sugar (optional, but balances the heat)",
+          "1 tbsp chili crisp (+ 2 more tbsp extra for garnish)",
+          "1 tbsp rice vinegar",
+          "2 tbsp dark soy sauce",
+          "1/4 cup neutral oil (I use avocado)",
+          "3 tbsp reserved pasta water (optional)",
+          "More sliced green onion, for garnish",
+          "Fresh lime wedges, for garnish"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "smashed-beef-kebab-with-cucumber-yogurt",
+    "title": "Smashed Beef Kebab With Cucumber Yogurt",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "4",
+    "time": "25 mins",
+    "source": {
+      "label": "NYT",
+      "links": [
+        {
+          "text": "NYT",
+          "url": "https://cooking.nytimes.com/recipes/1026425-smashed-beef-kebab-with-cucumber-yogurt"
+        }
+      ]
+    },
+    "image": "images/smashed-beef-kebab-with-cucumber-yogurt.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "2 cups full-fat or low-fat Greek yogurt (about 16 ounces)",
+          "2 mini cucumbers (about ½ pound), grated on the large holes of a box grater",
+          "3 tablespoons finely chopped mint, plus mint leaves for serving",
+          "1 large garlic clove, finely grated",
+          "1 pound ground beef (preferably 80 percent lean) or ground lamb",
+          "1 small yellow onion, grated on the large holes of a box grater (see Tips)",
+          "½ teaspoon ground turmeric"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "best-air-fryer-recipes",
+    "title": "Best Air Fryer Recipes",
+    "status": "favorite",
+    "categories": [
+      "appsides"
+    ],
+    "vegetarian": false,
+    "servings": null,
+    "time": null,
+    "source": {
+      "label": "NYT",
+      "links": [
+        {
+          "text": "NYT",
+          "url": "https://cooking.nytimes.com/article/best-air-fryer-recipes?referring_source=newsreader"
+        }
+      ]
+    },
+    "image": "images/best-air-fryer-recipes.jpg",
+    "ingredients": [],
+    "directions": [],
+    "notes": "Air fryer round-up from NYT Cooking covering Brussels sprouts, green beans, broccoli and salmon. Open the source for each recipe."
+  },
+  {
+    "id": "chicken-noodle-soup",
+    "title": "Chicken Noodle Soup",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "8",
+    "time": "30 mins",
+    "source": {
+      "label": "Jo Cooks",
+      "links": [
+        {
+          "text": "Jo Cooks",
+          "url": "https://www.jocooks.com/recipes/instant-pot-chicken-noodle-soup/#wprm-recipe-container-15994"
+        }
+      ]
+    },
+    "image": "images/chicken-noodle-soup.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "2 tbsp unsalted butter",
+          "1 large onion chopped",
+          "2 medium carrots chopped",
+          "2 stalks celery chopped",
+          "1 teaspoon salt or to taste",
+          "1 teaspoon pepper or to taste",
+          "1 teaspoon thyme dry, 1 tbsp if using fresh",
+          "1 tablespoon parsley fresh, chopped",
+          "1 tablespoon oregano fresh, chopped, 1 tsp if using dry",
+          "1 chicken bouillon cube or powder",
+          "4 cups chicken broth or vegetable broth, no sodium added",
+          "2 pounds chicken with skin and bones, use at least 1 chicken breast",
+          "4 cups water",
+          "5 ounce egg noodles uncooked, (about 2 cups)"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "tofu-buddha-bowl",
+    "title": "Tofu Buddha Bowl",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": "4",
+    "time": "30 mins",
+    "source": {
+      "label": "Forkful of Plants",
+      "links": [
+        {
+          "text": "Forkful of Plants",
+          "url": "https://forkfulofplants.com/tofu-buddha-bowl-vegan-high-protein/"
+        }
+      ]
+    },
+    "image": "images/tofu-buddha-bowl.jpg",
+    "ingredients": [
+      {
+        "group": "Sauce",
+        "items": [
+          "90 g peanut butter ⅓ cup",
+          "3 tbsp dark soy sauce",
+          "1 tbsp sriracha hot sauce",
+          "1 tbsp rice vinegar",
+          "½ lime juiced",
+          "1 tsp minced ginger",
+          "4 tbsp water"
+        ]
+      },
+      {
+        "group": "Bowl",
+        "items": [
+          "1 block extra firm tofu ~300g*",
+          "1 medium head broccoli cut into florets",
+          "1 tbsp sesame oil",
+          "1 400g can chickpeas drained and rinsed",
+          "½ tbsp olive oil",
+          "½ tsp chili powder",
+          "1 tsp garlic granules",
+          "200 g quinoa 1 cup",
+          "1 small zucchini ~250g",
+          "¼ red cabbage ~200g",
+          "1 handful fresh baby spinach",
+          "Cilantro, green onion and sesame seeds (to serve)"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "air-fryer-salmon",
+    "title": "Air Fryer Salmon",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "4",
+    "time": "13 mins",
+    "source": {
+      "label": "Pinch of Yum",
+      "links": [
+        {
+          "text": "Pinch of Yum",
+          "url": "https://pinchofyum.com/air-fryer-salmon"
+        }
+      ]
+    },
+    "image": "images/air-fryer-salmon.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1 lb. salmon",
+          "1 tablespoon brown sugar",
+          "1 teaspoon paprika",
+          "1 teaspoon smoked paprika",
+          "1/2 teaspoon chili powder",
+          "1 teaspoon onion powder",
+          "1/2 teaspoon garlic powder",
+          "1 teaspoon cornstarch",
+          "3/4 teaspoon coarse kosher salt (or 1/2 teaspoon table salt)",
+          "2–3 teaspoons avocado or olive oil"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "bang-bang-chicken",
+    "title": "Bang Bang Chicken",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "8",
+    "time": "35 mins",
+    "source": {
+      "label": "Jalalsamfit",
+      "links": [
+        {
+          "text": "Jalalsamfit",
+          "url": "https://www.facebook.com/reel/917184790613843"
+        }
+      ]
+    },
+    "image": "images/bang-bang-chicken.jpg",
+    "ingredients": [
+      {
+        "group": "Chicken Marinade",
+        "items": [
+          "2 lb 3¼ oz Boneless Skinless Chicken Thighs",
+          "1½ tsp Salt",
+          "2 tsp Black Pepper",
+          "2½ tsp Garlic Powder",
+          "2½ tsp Onion Powder",
+          "2 tsp Smoked Paprika",
+          "2 tsp Ginger Powder",
+          "3 tsp Olive Oil"
+        ]
+      },
+      {
+        "group": "Sauce",
+        "items": [
+          "3½ oz Light Mayo",
+          "2 oz Fat Free Yogurt",
+          "1¾ oz Reduced Sugar Sweet Chilli Sauce",
+          "1¾ oz Sriracha",
+          "¾ oz Rice Vinegar",
+          "1 tbsp chopped Fresh Parsley"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Spread a light layer of bang bang sauce on the chicken before cooking.",
+          "Oven bake or air fry 22–25 mins at 200C/400F until crispy and golden.",
+          "Spread an extra layer of sauce once cooked."
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "crispy-cheesy-chicken-tacos",
+    "title": "Crispy Cheesy Chicken Tacos",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "14",
+    "time": "1 hour",
+    "source": {
+      "label": "Jalalsamfit",
+      "links": [
+        {
+          "text": "Jalalsamfit",
+          "url": "https://www.instagram.com/reels/DSxdZJADyvl/"
+        }
+      ]
+    },
+    "image": "images/crispy-cheesy-chicken-tacos.jpg",
+    "ingredients": [
+      {
+        "group": "Chicken Marinade",
+        "items": [
+          "700 g Boneless Chicken Thighs, cut small cubes",
+          "700 g Chicken Breast, cut into small cubes",
+          "3 Tsp Salt",
+          "4 Tsp Smoked Paprika",
+          "4 Tsp Garlic Powder",
+          "4 Tsp Onion Powder",
+          "4 Tsp Oregano",
+          "3 Tsp Parsley",
+          "3 Tsp Cumin",
+          "8 Tsp Olive Oil",
+          "15 Low Carb Mini Wraps (Brand: Mission)"
+        ]
+      },
+      {
+        "group": "Pico de Gallo",
+        "items": [
+          "400 g Fresh Tomatoes, de seeded chopped (makes it much less watery)",
+          "150 g Red Onion, chopped",
+          "150 g White Onion, chopped",
+          "300 g Green Bell Peppers, chopped",
+          "2 Tbsp Fresh Coriander, chopped",
+          "1 Lime Juice",
+          "1 Tsp each Salt & Pepper"
+        ]
+      },
+      {
+        "group": "Taco Sauce",
+        "items": [
+          "200 g Yogurt",
+          "100 g Light Mayo",
+          "100 g Chilli Lime Hot Sauce (Brand: Cholula)",
+          "1 Tsp Smoked Paprika",
+          "1 Tsp Garlic Powder",
+          "Pinch of Salt",
+          "Milk for desired consistency"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Season chicken with marinade, mix well. Line a large sheet pan with parchment paper and lightly spray with cooking spray. Spread the chicken evenly and bake at 200C / 400F for 20-25 minutes until golden and juicy.",
+          "In a bowl, combine pico de gallo",
+          "In another bowl, mix taco sauce",
+          "Remove the chicken, leaving the juices in the tray. Stir paprika into the juices, dip the tortillas until coated, then fill with chicken and mozzarella. Fold tightly and bake at 180C / 370F for 15-20 minutes, flipping halfway until crispy."
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "air-fryer-tofu",
+    "title": "Air Fryer Tofu",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": "4",
+    "time": "40 mins",
+    "source": {
+      "label": "Jessica In The Kitchen",
+      "links": [
+        {
+          "text": "Jessica In The Kitchen",
+          "url": "https://jessicainthekitchen.com/how-to-make-crispy-air-fryer-tofu/#recipe"
+        }
+      ]
+    },
+    "image": "images/air-fryer-tofu.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1 lb block extra firm tofu, pressed for 30 minutes then cut into 1” cubes or tear into pieces for even more crisp, (16 oz.)",
+          "½ tbsp light soy sauce, or liquid aminos",
+          "1 tsp garlic powder",
+          "½ tsp onion powder",
+          "1 tsp paprika",
+          "½ tsp sea salt",
+          "2 tsp cornstarch, up to 2 extra teaspoons for the best crisp",
+          "1 tsp sesame oil, or any oil",
+          "¼ tsp ground black pepper"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "In a bowl, add tofu and soy sauce and toss to coat. Add all of the other seasoning ingredients and toss to thoroughly combine.",
+          "Place in your air fryer in a single row, so each piece has a little space around it. Set the air fryer to 400°F and cook for 10 to 15 minutes, shaking the basket after 5 minutes.",
+          "Remove once cooked. Allow to cool for a few minutes, then serve."
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "buddha-bowl",
+    "title": "Buddha Bowl",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": "4",
+    "time": "30 mins",
+    "source": {
+      "label": "Forkful of Plants",
+      "links": [
+        {
+          "text": "Forkful of Plants",
+          "url": "https://forkfulofplants.com/tofu-buddha-bowl-vegan-high-protein/#recipe"
+        }
+      ]
+    },
+    "image": "images/buddha-bowl.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "Tofu from previous recipe ~300g*",
+          "1 medium head broccoli cut into florets",
+          "1 tbsp sesame oil",
+          "1 400g can chickpeas drained and rinsed (air fry/roasted)",
+          "200 g quinoa 1 cup",
+          "1 small zucchini ~250g",
+          "¼ red cabbage ~200g",
+          "1 handful fresh baby spinach",
+          "Cilantro, green onion and sesame seeds (to serve)"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "broccoli-burrata-pasta",
+    "title": "Broccoli Burrata Pasta",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "8",
+    "time": "35 mins",
+    "source": {
+      "label": "Half Baked Harvest",
+      "links": [
+        {
+          "text": "Half Baked Harvest",
+          "url": "https://www.halfbakedharvest.com/broccoli-burrata-pasta-salad/#wprm-recipe-container-165286"
+        }
+      ]
+    },
+    "image": "images/broccoli-burrata-pasta.jpg",
+    "ingredients": [
+      {
+        "group": "Basil Ranch",
+        "items": [
+          "⅔ cup plain Greek yogurt or sour cream",
+          "½ cup mayo",
+          "2 ⅔ tablespoons buttermilk",
+          "1 ⅓ cup fresh basil",
+          "⅓ cup fresh chopped chives",
+          "2 ⅔ teaspoons Worcestershire",
+          "1 ⅓ teaspoon garlic powder",
+          "1 ⅓ teaspoon onion powder",
+          "kosher salt and black pepper"
+        ]
+      },
+      {
+        "group": "Pasta Salad",
+        "items": [
+          "4 ounces prosciutto",
+          "1 ⅓ pound short cut pasta",
+          "2 ⅔ cups chopped broccoli",
+          "2 ⅔ cups (about 3 ears) grilled corn",
+          "⅓ cup basil pesto",
+          "10 ⅔ ounces burrata cheese, at room temperature"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "high-protein-creamy-tomato-and-basil-beans",
+    "title": "High protein creamy tomato and basil beans",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": null,
+    "time": null,
+    "source": {
+      "label": "Soph's Plant Kitchen",
+      "links": [
+        {
+          "text": "Soph's Plant Kitchen",
+          "url": "https://www.instagram.com/reel/C8j51_HKkxG/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        }
+      ]
+    },
+    "image": "images/high-protein-creamy-tomato-and-basil-beans.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1/2 an onion, finely chopped",
+          "5 cloves garlic, crushed",
+          "1 tbsp tomato puree",
+          "3-4 large tomatoes, chopped",
+          "2 x 400g tins of butterbeans",
+          "Small handful of torn fresh basil",
+          "250 g firm tofu - I used tomato flavoured but if you can’t find this, just use firm tofu and add a bit more tomato puree and salt",
+          "3 heaped tbsp nooch",
+          "2 tbsp white miso",
+          "Splash of water"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Sauté the onions in plenty of olive oil and a pinch of salt for 8 mins. Add garlic and fry three mins more, then add tomato puree, the chopped fresh tomatoes and a big pinch of salt.",
+          "Bring to the boil, then bubble and simmer for 5-6 mins. Add the beans + their juices from the can (I pour a little out of the top first) and the basil, reserving a little for garnish. Bubble for a further 5 mins.",
+          "Scoop out 2 spoonfuls and blend with the firm tofu (I use a tomato flavoured one but if you can’t find this, add a little more tomato puree and salt) the nooch, and the miso. Add a splash or two of water to help it blend to a smooth consistency, season to taste.",
+          "Tip the tomatoey tofu cream into the beans, mix and gently heat.",
+          "Serve with yoghurt, olive oil, black pepper."
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "creamy-chickpea-spring-greens-pasta",
+    "title": "Creamy chickpea spring greens pasta",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": null,
+    "time": null,
+    "source": {
+      "label": "Soph's Plant Kitchen",
+      "links": [
+        {
+          "text": "Soph's Plant Kitchen",
+          "url": "https://www.instagram.com/reel/C5jJjl9qKnN/?igsh=MXUzZ2F6ZGF1M3l6Mw=="
+        }
+      ]
+    },
+    "image": "images/creamy-chickpea-spring-greens-pasta.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "200 g pasta (I used durum wheat semolina, Gemelli shape)",
+          "1 shallot or half a small white onion, finely diced.",
+          "200 g asparagus, woody stems discarded (use the snap method), stalks finely chopped, top parts left whole.",
+          "3-5 fat cloves of garlic, minced",
+          "1 large courgette, sliced into thin half moons",
+          "480 g chickpeas, from a jar or can (I don’t bother draining if the can / jar is organic and BPA free)",
+          "3 tbsp sweet white miso paste",
+          "Juice of one lemon"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Cook down your onion or shallot on a low/medium heat for 5 minutes with a small pinch of sea salt. Add the finely chopped asparagus stems and cook down a further 6-7 mins.",
+          "Add the garlic, courgettes, asparagus spear tops and another pinch of sea salt to help that all caramelise. Add more olive oil if you need to.",
+          "Put the pasta onto boil for 1 min less than the packet suggests. Do not rinse when done, as this washes the starch off the pasta (which means the sauce does not cling as effectively!) Save one large mug of pasta water.",
+          "Add half the chickpeas to the pan, blend the other half with the miso paste, lemon juice and around 80ml of the salty pasta water.",
+          "Add the pasta and the creamy chickpea sauce to the pan, combine very well and add more pasta water if you think it needs it.",
+          "Top with EVOO, fresh black pepper, fresh parsley and optional roasted seeds (for an extra protein boost!)"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "cauliflower-couscous",
+    "title": "Cauliflower Couscous",
+    "status": "favorite",
+    "categories": [
+      "appsides",
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": "8",
+    "time": "35 mins",
+    "source": {
+      "label": "Magnolia",
+      "links": [
+        {
+          "text": "Magnolia",
+          "url": "https://magnolia.com/recipe/dd7dbe9d-c868-4785-a4f7-2a0267225fbe/cauliflower-couscous/"
+        }
+      ]
+    },
+    "image": "images/cauliflower-couscous.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1/2 cup dried cranberries",
+          "1 cup boiling water",
+          "8 cups cauliflower florets (about 3 3/4 pounds, from 2 medium heads)",
+          "3 tablespoons salted butter",
+          "1/4 cup thinly sliced shallot (about 1 small)",
+          "3 garlic cloves, minced",
+          "3 cups finely chopped stemmed kale leaves (about one 5-ounce bunch)",
+          "1/2 cup chopped almonds",
+          "1 1/2 teaspoons kosher salt",
+          "2 teaspoons sherry vinegar",
+          "1/2 cup chopped green onions"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "pasta-with-kale-sun-dried-tomatoes",
+    "title": "Pasta with Kale & Sun-Dried Tomatoes",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": "6",
+    "time": "40 mins",
+    "source": {
+      "label": "Magnolia",
+      "links": [
+        {
+          "text": "Magnolia",
+          "url": "https://magnolia.com/blog/recipe/65b9084c-9cee-4e38-8120-f835f0f286f2/bow-tie-pasta-with-baby-kale--sun-dried-tomatoes/"
+        }
+      ]
+    },
+    "image": "images/pasta-with-kale-sun-dried-tomatoes.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "Kosher salt",
+          "1 Lb bow tie (farfalle) pasta",
+          "2 tbsp extra virgin olive oil",
+          "2 garlic cloves, grated on a rasp grater",
+          "2 cups heavy cream",
+          "One 8 oz block cream cheese, cut into pieces",
+          "1 1/2 cups bagged shredded Parmesan cheese (about 6 ounces; see Cook’s Note)",
+          "One 12 oz jar marinated quartered artichoke hearts, drained and halved lengthwise",
+          "One 8.5 oz jar oil-packed sun-dried tomatoes, drained and chopped",
+          "5 oz baby kale or baby spinach (about 5 cups)",
+          "Freshly ground black pepper",
+          "1/2 cup chopped walnuts, toasted, for garnish",
+          "1/4 cup minced chives, for garnish"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "butternut-squash-soup",
+    "title": "Butternut Squash Soup",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": null,
+    "time": "30 mins",
+    "source": {
+      "label": "Harsh",
+      "links": []
+    },
+    "image": "images/butternut-squash-soup.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "Butternut squash cubed",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "1/2 apple",
+          "Cumin",
+          "Salt",
+          "Coriander",
+          "Broth"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Cube butternut squash",
+          "Sauté the onion garlic and a small piece of ginger (or use ginger powder) in olive oil in the instant pot",
+          "Add the pieces of squash and apple and sauté for another 5 minutes",
+          "Add salt and some ground cumin and coriander and brown some more for 5 minutes",
+          "Add some broth just to cover the squash and pressure cook on soup setting",
+          "After it naturally releases blend it"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "tomato-basil-soup",
+    "title": "Tomato Basil Soup",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "6",
+    "time": "25 mins",
+    "source": {
+      "label": "Magnolia",
+      "links": [
+        {
+          "text": "Magnolia",
+          "url": "https://magnolia.com/blog/recipe/31eabf45-8a09-458a-a2a9-bff132288208/tomato-basil-soup/"
+        }
+      ]
+    },
+    "image": "images/tomato-basil-soup.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1 tablespoon extra virgin olive oil, plus more for serving",
+          "3 small garlic cloves, minced",
+          "Four 14.5-ounce cans diced fire-roasted tomatoes",
+          "2 to 3 cups store-bought chicken broth or Homemade Chicken Broth (page 216 in Magnolia Table Cookbook), as needed",
+          "1 teaspoon kosher salt",
+          "1/2 teaspoon freshly ground black pepper",
+          "1 cup heavy cream",
+          "6 basil leaves, stems removed, plus sliced basil for serving"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "risotto-alla-milanese",
+    "title": "Risotto alla milanese",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": "3.5",
+    "time": "1 hour",
+    "source": {
+      "label": "Harsh",
+      "links": []
+    },
+    "image": "images/risotto-alla-milanese.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1 cup arborio rice",
+          "1 tsp saffron",
+          "1/4 large onion, diced",
+          "3 cloves garlic, minced",
+          "Olive oil",
+          "Parmigiano, grated",
+          "2.5 oz butter",
+          "2 oz broth"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Olive oil heat 🔥🔥🔥 in Dutch oven or pot",
+          "Add onions until translucent 🔥🔥🔥",
+          "Add garlic until fragrant 🔥🔥🔥",
+          "Add rice and stir for 5 minutes 🔥🔥🔥",
+          "Simultaneously, heat up broth in separate pot with saffron 🔥🔥🔥",
+          "Slowly keep adding broth to the rice so that there is a layer above the rice and keep stirring until al dente 🔥🔥",
+          "Before it gets al dente, you can add butter and/or parmigiano"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "pomodori-ripieni",
+    "title": "Pomodori Ripieni",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": "4",
+    "time": "2 hours",
+    "source": {
+      "label": "Nonna Paola",
+      "links": []
+    },
+    "image": "images/pomodori-ripieni.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "20 round medium tomatoes",
+          "Olive oil",
+          "Salt",
+          "3 cloves garlic, minced and lightly sautéed",
+          "onion, diced and lightly sautéed",
+          "1 1/4 cup pan grattato"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Cut tomatoes in half parallel-wise",
+          "Remove core, seeds, and all liquid from inside of each half",
+          "Add a pinch of salt to each and put in pan"
+        ]
+      },
+      {
+        "group": "Filling",
+        "steps": [
+          "Add garlic, onions, pan grattato, salt, and olive oil and mix",
+          "Spoon mixture into each tomato, drizzle oil and a pinch of salt",
+          "Heat oven to 200C (375F) and cook for 1.25 hours"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "butternut-squash-mac-cheese",
+    "title": "Butternut Squash Mac & Cheese",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": "6",
+    "time": "1 hour 10 mins",
+    "source": {
+      "label": "Spoonful of Si",
+      "links": [
+        {
+          "text": "Spoonful of Si",
+          "url": "https://spoonfulofsi.com/copycat-trader-joes-butternut-squash-mac-and-cheese/"
+        }
+      ]
+    },
+    "image": "images/butternut-squash-mac-cheese.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "15 oz medium butternut squash 2 cups cooked",
+          "1/4 cup whole milk",
+          "2 tsp fresh sage chopped",
+          "2 tsp fresh thyme leaves removed from stem",
+          "1 tsp garlic powder",
+          "1 tsp onion powder",
+          "1 tsp smoked paprika",
+          "1/2 tsp salt",
+          "1/2 tsp black pepper",
+          "1/4 tsp nutmeg",
+          "1/4 tsp cayenne pepper",
+          "1 lb rigatoni cooked to al dente",
+          "3 tbsp butter",
+          "3 tbsp flour",
+          "3/4 cup whole milk",
+          "2 tsp Dijon mustard",
+          "6 oz shredded gouda about 1 cup",
+          "3 oz shredded parmesan about 1/2 cup",
+          "3 oz shredded white cheddar about 1/2 cup"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "autumn-salad",
+    "title": "Autumn Salad",
+    "status": "favorite",
+    "categories": [
+      "entrees",
+      "appsides"
+    ],
+    "vegetarian": true,
+    "servings": "4",
+    "time": "20 mins",
+    "source": {
+      "label": "NeighborFood Blog",
+      "links": [
+        {
+          "text": "NeighborFood Blog",
+          "url": "https://neighborfoodblog.com/autumn-salad-with-pear-and-goat-cheese/"
+        }
+      ]
+    },
+    "image": "images/autumn-salad.jpg",
+    "ingredients": [
+      {
+        "group": "Salad",
+        "items": [
+          "16 oz mixed greens",
+          "1 cup whole pecans",
+          "2 red anjou pears (sliced)",
+          "1 ½ cups red grapes (halved)",
+          "1 cup dried cranberries",
+          "¼ cup thinly sliced red onion (optional)",
+          "4 ounces crumbled goat cheese"
+        ]
+      },
+      {
+        "group": "Maple vinaigrette",
+        "items": [
+          "1 tablespoon real maple syrup",
+          "1 tablespoon Dijon mustard",
+          "¼ cup balsamic vinegar",
+          "½ cup olive oil",
+          "Salt and pepper (to taste)"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "roasted-honey-nut-squash-chickpeas",
+    "title": "Roasted Honey Nut Squash & Chickpeas",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": "4",
+    "time": "1 hour",
+    "source": {
+      "label": "NYT",
+      "links": [
+        {
+          "text": "NYT",
+          "url": "https://cooking.nytimes.com/recipes/1023687-roasted-honey-nut-squash-and-chickpeas-with-hot-honey"
+        }
+      ]
+    },
+    "image": "images/roasted-honey-nut-squash-chickpeas.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "2 (14.5-ounce) cans chickpeas (preferably not “no salt added”), drained and rinsed",
+          "2 ½ pounds honey nut or butternut squash, peeled, trimmed, seeded and cut into 1-inch cubes (6 cups)",
+          "1 ¾ teaspoons baharat, garam masala or another spice blend",
+          "1 ¼ teaspoons fine salt, plus more as needed",
+          "5 thyme sprigs",
+          "⅛ teaspoon red-pepper flakes",
+          "3 tablespoons extra-virgin olive oil, plus more as needed",
+          "1 small red onion, thinly sliced",
+          "1 teaspoon cider vinegar or rice wine vinegar, plus more as needed",
+          "½ cup fresh cilantro leaves or dill sprigs, or a combination",
+          "1 to 2 tablespoons hot honey, plus more to taste",
+          "Plain whole-milk yogurt or sour cream, for serving (optional)"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "ground-chicken-stir-fry",
+    "title": "Ground chicken stir fry",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "4",
+    "time": "35 mins",
+    "source": {
+      "label": "Salt and Lavender",
+      "links": [
+        {
+          "text": "Salt and Lavender",
+          "url": "https://www.saltandlavender.com/ground-chicken-stir-fry/"
+        }
+      ]
+    },
+    "image": "images/ground-chicken-stir-fry.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "4 tablespoons olive oil divided",
+          "2 pound ground chicken",
+          "1 medium onion",
+          "12 ounces snow peas",
+          "2 red bell pepper",
+          "4 cups broccoli florets",
+          "1 cup matchstick cut carrots",
+          "1.5 cup cashews"
+        ]
+      },
+      {
+        "group": "Sauce",
+        "items": [
+          "1 cup chicken broth or water",
+          "6 tablespoons hoisin sauce",
+          "4 tablespoons sriracha sauce",
+          "4 tablespoons soy sauce",
+          "1 teaspoon apple cider vinegar or rice vinegar",
+          "2 tablespoon brown sugar",
+          "2 tablespoon cornstarch",
+          "2 teaspoon grated fresh ginger",
+          "6 cloves garlic minced",
+          "1 teaspoon crushed red pepper flakes"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "southwest-ground-beef-and-sweet-potato-skillet",
+    "title": "Southwest Ground Beef and Sweet Potato Skillet",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "4",
+    "time": "30 mins",
+    "source": {
+      "label": "Recipe Runner",
+      "links": [
+        {
+          "text": "Recipe Runner",
+          "url": "https://reciperunner.com/southwest-ground-beef-and-sweet-potato-skillet/"
+        }
+      ]
+    },
+    "image": "images/southwest-ground-beef-and-sweet-potato-skillet.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1 tbsp olive oil",
+          "1/2 cup diced onion",
+          "1 pound lean ground beef",
+          "5 tsp chili powder, divided",
+          "2 tsp ground cumin",
+          "Kosher salt and fresh ground black pepper to taste",
+          "1 tsp grated garlic",
+          "2 cups peeled and diced sweet potatoes",
+          "14.5 oz can fire roasted diced tomatoes",
+          "4 oz canned diced green chiles",
+          "1/4 cup water",
+          "1/2 cup shredded cheddar cheese",
+          "Cilantro for garnish (optional)"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "stuffed-peppers",
+    "title": "Stuffed Peppers",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "2",
+    "time": "1.5 hours",
+    "source": {
+      "label": "Delish",
+      "links": [
+        {
+          "text": "Delish",
+          "url": "https://www.delish.com/cooking/recipe-ideas/a23014857/classic-stuffed-peppers-recipe/"
+        }
+      ]
+    },
+    "image": "images/stuffed-peppers.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1 1/2 cup rice",
+          "2 tbsp extra-virgin olive oil",
+          "1 medium onion, chopped",
+          "2 tbsp tomato paste",
+          "3 cloves garlic, minced",
+          "1 lb ground beef",
+          "1 (14.5 oz) can diced tomatoes",
+          "1 1/2 tsp dried oregano",
+          "6 bell peppers, tops and cores removed",
+          "1 cup shredded Monterey jack",
+          "Parsley for garnish"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Preheat oven to 400°. In a small saucepan, prepare rice according to package instructions. In a large skillet over medium heat, heat oil. Cook onion until soft, about 5 minutes. Stir in tomato paste and garlic and cook until fragrant, about 1 minute more. Add ground beef and cook, breaking up meat with a wooden spoon, until no longer pink, 6 minutes. Drain fat.",
+          "Return beef mixture to skillet, then stir in cooked rice and diced tomatoes. Season with oregano, salt, and pepper. Let simmer until liquid has reduced slightly, about 5 minutes.",
+          "Place peppers cut side-up in a 9\"-x-13\" baking dish and drizzle with oil. Spoon beef mixture into each pepper and top with Monterey jack, then cover baking dish with foil.",
+          "Bake until peppers are tender, about 35 minutes. Uncover and bake until cheese is bubbly, 10 minutes more.",
+          "Garnish with parsley before serving."
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "meatloaf",
+    "title": "Meatloaf",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": null,
+    "time": null,
+    "source": {
+      "label": "Harsh",
+      "links": []
+    },
+    "image": "images/meatloaf.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "Minced beef 1lb (90 lean, 10 fat)",
+          "Parsley",
+          "Egg 1",
+          "Milk",
+          "Celery 2 or 3",
+          "Carrots 1",
+          "Onion",
+          "Garlic",
+          "Grated parmesan",
+          "Bread slice 1 (Sliced white bread without crust)",
+          "Breadcrumbs"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Sauté veggies",
+          "Soak bread in milk chop into cubes. Fill milk almost to the top. Squeeze out milk from bread",
+          "Mush together everything with hands",
+          "Add salt and pepper",
+          "Make one big round ball",
+          "Sprinkle breadcrumbs",
+          "Baking pan",
+          "Oven 375F",
+          "Check after 30 mins",
+          "Should take 30-45 minutes"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "pizza",
+    "title": "Pizza",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "2.5",
+    "time": "25 mins",
+    "source": {
+      "label": "Harsh",
+      "links": []
+    },
+    "image": "images/pizza.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "Strained tomato sauce",
+          "Mozzarella cheese",
+          "Choice of protein (affettato)",
+          "Fresh Basilico",
+          "Pizza dough",
+          "Mozzarelline (optional)",
+          "Cherry tomatoes (optional)"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Shape dough into round flat shape",
+          "Oil and flour the pizza pan",
+          "Place dough onto pan",
+          "Spread spoonfuls of tomato sauce until whole surface area covered",
+          "Sprinkle cheese",
+          "Add affettato as topping",
+          "Add extra toppings like mozzarelline or cherry tomatoes",
+          "Add basil leaves",
+          "Preheat oven to 550F",
+          "Place pizza in oven and turn 90 degrees every 5 minutes until bottom is light brown"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "ragu-pasta",
+    "title": "Ragù Pasta",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "2.5",
+    "time": "1 hour",
+    "source": {
+      "label": "Harsh",
+      "links": []
+    },
+    "image": "images/ragu-pasta.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "Olive oil",
+          "1 Celery, food processor or diced",
+          "2 Carrots, food processor or diced",
+          "1/2 large onion, diced",
+          "4 cloves garlic, minced",
+          "1/2 lb ground beef",
+          "1 can (12 oz) crushed or diced tomatoes"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Olive oil heat in pan 🔥🔥🔥",
+          "Add onions until translucent",
+          "Add garlic until fragrant",
+          "Add carrots and celery until brown put them to one side",
+          "Add beef until brown",
+          "Mix everything up and brown a little more 🔥🔥",
+          "Add salt and crushed tomatoes and stir together",
+          "Let cook for an hour and stir often 🔥-🔥🔥",
+          "When well amalgamated 🔥 for another 30-45 mins"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "sheet-pan-chicken-sausage-veggies",
+    "title": "Sheet Pan Chicken Sausage & Veggies",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "4",
+    "time": "1 hour",
+    "source": {
+      "label": "Dishing Out Health",
+      "links": [
+        {
+          "text": "Dishing Out Health",
+          "url": "https://dishingouthealth.com/sheet-pan-chicken-sausage-and-veggies/"
+        }
+      ]
+    },
+    "image": "images/sheet-pan-chicken-sausage-veggies.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "3 1/2 cups peeled and cubed butternut squash (from 1 small squash)",
+          "1 lb. Brussels sprouts, trimmed and halved (roughly 12 ounces after trimming)",
+          "1/2 red onion, cut into chunks",
+          "12 ounces (4 links) fully-cooked chicken sausage, sliced on a bias into 1/4-inch pieces (I suggest sweet Italian or apple chicken sausage)",
+          "3 Tbsp. extra-virgin olive oil",
+          "2 Tbsp. maple syrup",
+          "1 Tbsp. finely chopped fresh rosemary",
+          "3/4 tsp. kosher salt",
+          "1/2 tsp. cracked black pepper",
+          "Suggested for serving: cooked quinoa and arugula"
+        ]
+      },
+      {
+        "group": "Balsamic-Tahini",
+        "items": [
+          "3 Tbsp. tahini",
+          "3 Tbsp. balsamic vinegar",
+          "1/2 tsp. garlic powder",
+          "1/4 tsp. each kosher salt and black pepper",
+          "2 to 3 Tbsp. water"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "burrito-bowl",
+    "title": "Burrito Bowl",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "8",
+    "time": "35 mins",
+    "source": {
+      "label": "I Heart Naptime",
+      "links": [
+        {
+          "text": "I Heart Naptime",
+          "url": "https://www.iheartnaptime.net/burrito-bowls/"
+        }
+      ]
+    },
+    "image": "images/burrito-bowl.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1 Tablespoon olive oil",
+          "½ cup red bell pepper , chopped",
+          "½ cup sweet onion , chopped",
+          "1 pound lean ground beef",
+          "½ cup salsa , I used Thick n’ Chunky Medium spice",
+          "15 ounce can black beans , rinsed and drained",
+          "15 ounce can corn , drained",
+          "14.5 ounce can diced tomatoes",
+          "4 ounce can diced green chiles",
+          "1 cup jasmine rice , rinsed",
+          "1 Tablespoon taco seasoning",
+          "½ teaspoon chili powder , use 1-2 tsp if you like more spice",
+          "2 cups chicken stock , or vegetable broth works too",
+          "1 cup shredded cheddar/jack cheese"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "mcchicken-smash-tacos-recipe",
+    "title": "McChicken Smash Tacos Recipe",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "8",
+    "time": "20 mins",
+    "source": {
+      "label": "Basics with Bails",
+      "links": [
+        {
+          "text": "Basics with Bails",
+          "url": "https://basicswithbails.com/ingredients/chicken/mcchicken-smash-tacos/"
+        }
+      ]
+    },
+    "image": "images/mcchicken-smash-tacos-recipe.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "500 g ground chicken",
+          "2 tsp garlic powder",
+          "Salt and black pepper to taste",
+          "8 small flour tortillas",
+          "½ cup breadcrumbs",
+          "1 cup shredded iceberg lettuce"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "mexican-indian-tacos",
+    "title": "Mexican-Indian Tacos",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "4",
+    "time": "1 hour",
+    "source": {
+      "label": "Arya Diwase",
+      "links": []
+    },
+    "image": "images/mexican-indian-tacos.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "Tortilla",
+          "2 very ripe avocados",
+          "1 tomato finely diced",
+          "1 tbsp lemon juice",
+          "1/4 large onion",
+          "3 cloves of garlic finely chopped",
+          "Black beans",
+          "Swiss or American cheese grated",
+          "Plain yogurt",
+          "Chicken",
+          "Olive oil"
+        ]
+      },
+      {
+        "group": "Spices",
+        "items": [
+          "Salt, Pepper, Mint, Basil",
+          "2 tsp kashmiri chili",
+          "1 tsp cumin",
+          "1 tsp turmeric",
+          "2 tsp coriander"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "Guacamole",
+        "steps": [
+          "Mush the avocados",
+          "Add the tomatoes, lemon juice, and (1/8) onion",
+          "Add 2 tsp pepper, 4 tsp salt"
+        ]
+      },
+      {
+        "group": "Black beans",
+        "steps": [
+          "Wash beans",
+          "Sauté with oil and salt"
+        ]
+      },
+      {
+        "group": "Yogurt",
+        "steps": [
+          "Very quickly heat kashmiri chili, cumin, turmeric on skillet (less than half of chicken spice amount)",
+          "Mint, salt, pepper, basil grind into a paste",
+          "Mix paste and spices throughout yogurt"
+        ]
+      },
+      {
+        "group": "Chicken",
+        "steps": [
+          "Cut chicken into 2-3 cm bite-size pieces",
+          "Heat (1/8) onions until crispy with garlic with some salt",
+          "Sauté the chicken until completely cooked",
+          "Add remaining coriander, kashmiri red chili, turmeric, cumin"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "quiche",
+    "title": "Quiche",
+    "status": "favorite",
+    "categories": [
+      "breakfast",
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "8",
+    "time": "1hr 30",
+    "source": {
+      "label": "Spend with Pennies",
+      "links": [
+        {
+          "text": "Crust",
+          "url": "https://www.spendwithpennies.com/flaky-homemade-pie-crust/#wprm-recipe-container-156458"
+        },
+        {
+          "text": "Filling",
+          "url": "https://www.spendwithpennies.com/easy-quiche-recipe/#wprm-recipe-container-134487"
+        }
+      ]
+    },
+    "image": "images/quiche.jpg",
+    "ingredients": [
+      {
+        "group": "Crust",
+        "items": [
+          "1.5 cups all purpose flour",
+          "0.5 teaspoon salt",
+          "3.5 tablespoons unsalted cold butter cubed",
+          "3.5 tablespoons shortening cubed",
+          "⅓ to ½ cup ice cold water"
+        ]
+      },
+      {
+        "group": "Filling",
+        "items": [
+          "1 single pie crust unbaked",
+          "6 large eggs",
+          "¾ cup milk or cream",
+          "¾ teaspoon salt",
+          "¼ teaspoon black pepper",
+          "1 cup cubed cooked ham",
+          "1 ½ cups shredded cheddar cheese divided",
+          "3 tablespoons sliced green onions"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "coconut-curry-salmon-with-garlic-butter",
+    "title": "Coconut Curry Salmon with Garlic Butter",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "4",
+    "time": "40 mins",
+    "source": {
+      "label": "Half Baked Harvest",
+      "links": [
+        {
+          "text": "Half Baked Harvest",
+          "url": "https://www.halfbakedharvest.com/coconut-curry-salmon/"
+        }
+      ]
+    },
+    "image": "images/coconut-curry-salmon-with-garlic-butter.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "4 (4-6 ounce) salmon filets",
+          "2-3 tablespoons spicy curry powder (homemade in notes)",
+          "kosher salt and black pepper",
+          "chili flakes",
+          "1 tablespoon extra virgin olive oil",
+          "2 tablespoons honey",
+          "6 tablespoons salted butter",
+          "1/4 cup Thai red curry paste",
+          "1 tablespoon fresh grated ginger",
+          "1 1/2 cups chopped broccoli",
+          "2 cups canned full-fat coconut milk",
+          "2 tablespoons tamari or soy sauce",
+          "1 tablespoon fish sauce (or soy sauce)",
+          "3-4 cloves garlic, chopped"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "spicy-miso-coconut-broth-noodles",
+    "title": "Spicy miso coconut broth noodles",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": true,
+    "servings": "4",
+    "time": "30 mins",
+    "source": {
+      "label": "Half Baked Harvest",
+      "links": []
+    },
+    "image": "images/spicy-miso-coconut-broth-noodles.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "2 tablespoons ghee or salted butter",
+          "1½ cups sliced shiitake mushrooms",
+          "6 garlic cloves, chopped",
+          "2 medium shallots, chopped",
+          "1 (1-inch) piece fresh ginger, chopped or grated",
+          "Crushed red pepper flakes",
+          "6 cups low-sodium vegetable broth",
+          "1 (14-ounce) can full-fat unsweetened coconut milk",
+          "¼ cup tamari or low-sodium soy sauce",
+          "¼ cup white miso paste",
+          "2 to 4 tablespoons chili paste, to taste (I like gochujang or Thai red curry paste)",
+          "1 pound cooked ramen noodles, Chinese-style egg noodles, or rice noodles",
+          "2 cups fresh baby spinach, chopped",
+          "1 tablespoon toasted sesame oil, plus more for serving",
+          "Thinly sliced green onions, for serving"
+        ]
+      },
+      {
+        "group": "Sesame crunch",
+        "items": [
+          "1 tablespoon ghee or salted butter",
+          "½ cup panko breadcrumbs",
+          "⅓ cup sesame seeds",
+          "2 garlic cloves, finely chopped or grated",
+          "2 toasted nori sheets, crumbled",
+          "Fine pink Himalayan salt"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "empanadas",
+    "title": "Empanadas",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": null,
+    "time": null,
+    "source": {
+      "label": "Linette & NYT",
+      "links": [
+        {
+          "text": "Linette & NYT",
+          "url": "https://cooking.nytimes.com/recipes/1014844-beef-empanadas"
+        }
+      ]
+    },
+    "image": "images/empanadas.jpg",
+    "ingredients": [
+      {
+        "group": "Filling",
+        "items": [
+          "Ground beef",
+          "Garlic paste",
+          "Salt",
+          "Slap ya mamas seasoning",
+          "Mozzarella cheese or mexican 4 cheese",
+          "Empanada rounds"
+        ]
+      },
+      {
+        "group": "Sofrito",
+        "items": [
+          "1 bunch cilantro",
+          "1 bunch culantro",
+          "1 bulb of garlic",
+          "2 bell peppers",
+          "1/2 pound of sweet peppers",
+          "1 white onion",
+          "1 tbs chili powder",
+          "1 tbs chicken bullion",
+          "2 tbs ground oregano",
+          "1 tsp olive oil"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Prep veggies and cook sofrito in pan.",
+          "Add beef until well cooked",
+          "Add a spoonful of beef mixture onto empanada round, top with cheese.",
+          "Close empanada in half and use fork to seal the edges all the way around half circle. Do this on both sides",
+          "Heat olive oil on pan. Fry empanadas on both sides"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "lasagne",
+    "title": "Lasagne",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "4",
+    "time": "2 hours",
+    "source": {
+      "label": "Nonna Paola",
+      "links": []
+    },
+    "image": "images/lasagne.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1 whole small onion",
+          "3 garlic cloves",
+          "6 etti ground beef",
+          "Full can of diced tomatoes",
+          "Some tbsp of passata pomodoro",
+          "Besciamella 750 mL",
+          "Some tbsp of milk",
+          "Lots of grated Parmesan cheese",
+          "Rana lasagna pasta ready to be baked"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Cook onion and garlic in oil over medium heat.",
+          "Add ground beef and cook 20–30 min over medium heat.",
+          "Add tomatoes and cook 1 hour, covered, on low.",
+          "Make a light besciamella in a separate pot (750 mL) and dilute with some milk.",
+          "Add some tomato sauce to the meat and cover again. Add some salt.",
+          "Layer order: A) besciamella, B) ragù, C) grated Parmesan, D) pasta sheets (Rana lasagne fresche all’uovo, bake straight in the pan; about 45 sheets).",
+          "Dollop a little of A and B in the pan before the first layer of pasta sheets, which should cover the bottom completely.",
+          "Repeat A to D for 6 to 7 layers of pasta, finishing with pasta.",
+          "Bake for 30 mins at 200C."
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "brodo",
+    "title": "Brodo",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "4",
+    "time": "2 hours",
+    "source": {
+      "label": "Nonna Paola",
+      "links": []
+    },
+    "image": "images/brodo.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "Lesso magro",
+          "Carote",
+          "Pomodori",
+          "Cipolla",
+          "Patate",
+          "Sedano"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "A freddo",
+          "Low per 2 ore"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "chicken-bbq-marinade",
+    "title": "Chicken BBQ Marinade",
+    "status": "favorite",
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": null,
+    "time": null,
+    "source": {
+      "label": "Harsh",
+      "links": []
+    },
+    "image": "images/chicken-bbq-marinade.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "2 tbsp garam masala",
+          "1-2 tsp goya sazon (coriander and annatto)",
+          "Greek yogurt, enough to coat chicken",
+          "1 tbsp squeezed lemon juice"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Salt the chicken and mix it in with the spices and yogurt",
+          "BBQ"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "chickpeas-in-mediterranean-marinade",
+    "title": "Chickpeas in Mediterranean Marinade",
+    "status": "favorite",
+    "categories": [
+      "appsides",
+      "snack"
+    ],
+    "vegetarian": true,
+    "servings": null,
+    "time": null,
+    "source": {
+      "label": "Whole Foods",
+      "links": []
+    },
+    "image": "images/chickpeas-in-mediterranean-marinade.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "Chickpeas",
+          "Sunflower oil",
+          "Lemon juice",
+          "Dill",
+          "Sea salt",
+          "Cumin",
+          "Garlic",
+          "Citric acid",
+          "Black pepper"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "sweet-potato-rounds-herbed-ricotta-walnuts",
+    "title": "Sweet potato rounds: herbed ricotta & walnuts",
+    "status": "favorite",
+    "categories": [
+      "appsides"
+    ],
+    "vegetarian": true,
+    "servings": "8",
+    "time": "35 mins",
+    "source": {
+      "label": "Roasted Root",
+      "links": [
+        {
+          "text": "Roasted Root",
+          "url": "https://www.theroastedroot.net/sweet-potato-rounds-with-herbed-ricotta-and-walnuts/"
+        }
+      ]
+    },
+    "image": "images/sweet-potato-rounds-herbed-ricotta-walnuts.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1 large sweet potato sliced into ¼-inch rounds",
+          "1 Tbsp avocado oil",
+          "1 pinch ground cinnamon"
+        ]
+      },
+      {
+        "group": "Herbed Ricotta",
+        "items": [
+          "1 cup whole milk ricotta cheese",
+          "1 ½ tsp Italian seasoning",
+          "1 Tbsp + 1 tsp honey",
+          "¼ tsp sea salt to taste"
+        ]
+      },
+      {
+        "group": "For Serving",
+        "items": [
+          "1 cup raw walnuts roasted and chopped",
+          "¾ cup dried cranberries",
+          "honey"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "oatmeal-cups",
+    "title": "Oatmeal Cups",
+    "status": "favorite",
+    "categories": [
+      "breakfast"
+    ],
+    "vegetarian": true,
+    "servings": "9 little cups",
+    "time": "40 mins",
+    "source": {
+      "label": "IG Choosing Balance",
+      "links": [
+        {
+          "text": "IG Choosing Balance",
+          "url": "https://www.instagram.com/reel/Ch5KGhVJfCm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        }
+      ]
+    },
+    "image": "images/oatmeal-cups.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "2 ripe bananas",
+          "1/2 cup peanut butter",
+          "2 1/2 cups milk of choice",
+          "1/2 cup maple syrup",
+          "6 cups gluten free rolled oats",
+          "2 tsp baking powder",
+          "1 tsp cinnamon"
+        ]
+      },
+      {
+        "group": "Toppings",
+        "items": [
+          "Strawberries",
+          "Sliced banana",
+          "Chocolate chips",
+          "Jam"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Preheat oven to 350F.",
+          "In a bowl, mash the bananas.",
+          "Add in the other ingredients and stir together well. Use a spoon or spatula, not a hand mixer. This makes 24 cups.",
+          "Spray two 12-cup muffin tins with nonstick spray.",
+          "Add about 3 spoonfuls of the oatmeal mix to each cup, so they are about 3/4 full.",
+          "Add toppings.",
+          "Bake for 25–28 minutes, let cool for 10, then remove and enjoy!"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "homemade-granola-bars",
+    "title": "Homemade granola bars",
+    "status": "favorite",
+    "categories": [
+      "snack",
+      "breakfast"
+    ],
+    "vegetarian": true,
+    "servings": "8",
+    "time": "1 hour",
+    "source": {
+      "label": "Love & Lemons",
+      "links": [
+        {
+          "text": "Love & Lemons",
+          "url": "https://www.loveandlemons.com/granola-bars-recipe/"
+        }
+      ]
+    },
+    "image": "images/homemade-granola-bars.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "8 x8 cake pan",
+          "1 cup very smooth creamy natural peanut butter , or cashew butter",
+          "⅔ cup honey",
+          "1 teaspoon vanilla extract",
+          "Heaping ½ teaspoon sea salt",
+          "2½ cups whole rolled oats",
+          "⅓ cup mini chocolate chips*",
+          "3 tablespoons pepitas, or crushed peanuts or cashews"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "In a large bowl, stir together the peanut butter, honey, vanilla, and salt, until smooth.",
+          "Add the oats, chocolate chips and the pepitas (or nuts). The mixture might seem dry at first, but keep stirring and it'll come together. Stir to combine and press firmly into the pan. Use a second piece of parchment paper and the back of a measuring cup to help flatten the mixture. Chill for at least 1 hour, then slice into bars.",
+          "Store bars in the fridge."
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "pb-j-oat-cups",
+    "title": "PB&J Oat Cups",
+    "status": "favorite",
+    "categories": [
+      "snack",
+      "breakfast"
+    ],
+    "vegetarian": true,
+    "servings": "6",
+    "time": "1 hour",
+    "source": {
+      "label": "Love & Lemons",
+      "links": [
+        {
+          "text": "Love & Lemons",
+          "url": "https://www.loveandlemons.com/granola-bars-recipe/"
+        }
+      ]
+    },
+    "image": "images/pb-j-oat-cups.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1½ cups rolled oats",
+          "½ cup peanut butter",
+          "⅓ cup honey",
+          "1 tsp vanilla",
+          "½ tsp cinnamon",
+          "Pinch of flaky sea salt (for topping)",
+          "1 cup fresh raspberries",
+          "1½ tbsp chia seeds",
+          "1–2 tsp honey (to taste)"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Line a muffin tin with 6 liners. In a bowl, mix oats, peanut butter, honey, vanilla, and cinnamon until fully combined. Press about 2 tablespoons of the oat mixture firmly into the bottom and slightly up the sides of each liner to form cups.",
+          "Mash raspberries with chia seeds and honey until broken down and jammy; let sit 5–10 minutes to thicken. Spoon the raspberry chia jam into the center of each cup. Sprinkle with flaky sea salt.",
+          "Freeze for 1–2 hours, until firm.",
+          "Let sit at room temperature for 2–3 minutes before eating"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "key-lime-pound-cake",
+    "title": "Key Lime Pound Cake",
+    "status": "favorite",
+    "categories": [
+      "dessert"
+    ],
+    "vegetarian": true,
+    "servings": "9",
+    "time": "1 hour 45 minutes",
+    "source": {
+      "label": "NYT",
+      "links": [
+        {
+          "text": "NYT",
+          "url": "https://cooking.nytimes.com/recipes/1018083-key-lime-poundcake"
+        }
+      ]
+    },
+    "image": "images/key-lime-pound-cake.jpg",
+    "ingredients": [
+      {
+        "group": "Cake",
+        "items": [
+          "1 cup/226 grams unsalted butter at room temperature, cut into pieces, plus more for greasing the pan",
+          "2 cups/240 grams all-purpose flour, more for flouring the pan",
+          "1 ½ teaspoons baking powder",
+          "4 ounces/113 grams cream cheese at room temperature, cut into pieces",
+          "1 ½ cups/297 grams granulated white sugar",
+          "4 eggs at room temperature, lightly beaten",
+          "2 tablespoons lime zest",
+          "1 tablespoon Key lime juice"
+        ]
+      },
+      {
+        "group": "Glaze",
+        "items": [
+          "4 ounces/113 grams cream cheese at room temperature",
+          "¼ cup/57 grams unsalted butter at room temperature",
+          "2 cups/227 grams confectioners' sugar",
+          "¼ cup/60 milliliters Key lime juice",
+          "2 tablespoons lime zest"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "strawberry-cake",
+    "title": "Strawberry Cake",
+    "status": "favorite",
+    "categories": [
+      "dessert"
+    ],
+    "vegetarian": true,
+    "servings": "12",
+    "time": "1 hour 30 mins",
+    "source": {
+      "label": "Alison Roman",
+      "links": [
+        {
+          "text": "Alison Roman",
+          "url": "https://www.alisoneroman.com/recipes/old-fashioned-strawberry-cake"
+        }
+      ]
+    },
+    "image": "images/strawberry-cake.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "Cooking spray",
+          "2 cups or 290g all-purpose flour",
+          "2 teaspoons or 8g baking powder",
+          "¾ teaspoon or 3g kosher salt",
+          "1 stick or 4 ounces or 115g unsalted butter, at room temperature",
+          "⅓ cup or 70g granulated sugar",
+          "⅓ cup or 75g light brown sugar",
+          "1 teaspoon vanilla extract",
+          "2 large eggs",
+          "¾ cup or 180g buttermilk",
+          "10 ounces or 295g strawberries, hulled and sliced ¼ inch thick (or halved blackberries, blueberries, pitted sweet cherries, sliced peaches, or figs)",
+          "3 tablespoons demerara sugar (you can use granulated sugar in a pinch)"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "raspberry-ricotta-cake",
+    "title": "Raspberry Ricotta Cake",
+    "status": "favorite",
+    "categories": [
+      "dessert"
+    ],
+    "vegetarian": true,
+    "servings": "12",
+    "time": "1 hour 20 minutes",
+    "source": {
+      "label": "Alison Roman",
+      "links": [
+        {
+          "text": "Alison Roman",
+          "url": "https://www.purewow.com/recipes/raspberry-ricotta-cake"
+        }
+      ]
+    },
+    "image": "images/raspberry-ricotta-cake.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "Nonstick cooking spray",
+          "1½ cups (220g) all-purpose flour",
+          "1 tablespoon (12g) baking powder",
+          "1 teaspoon (4g) kosher salt",
+          "1½ cups (365g) ricotta cheese",
+          "1¼ cups (275g) granulated sugar, divided",
+          "Grated zest of 1 lemon, lime, grapefruit or orange (optional)",
+          "3 large eggs",
+          "½ teaspoon (2g) vanilla extract",
+          "1 stick (4 ounces/115g) unsalted butter, melted",
+          "12 to 16 ounces (340g–450g) raspberries or blackberries, fresh or frozen"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "citrusy-cheesecake",
+    "title": "Citrusy Cheesecake",
+    "status": "favorite",
+    "categories": [
+      "dessert"
+    ],
+    "vegetarian": true,
+    "servings": "10",
+    "time": "2 hours",
+    "source": {
+      "label": "Alison Roman",
+      "links": [
+        {
+          "text": "Alison Roman",
+          "url": "https://www.alisoneroman.com/recipes/citrusy-cheesecake"
+        }
+      ]
+    },
+    "image": "images/citrusy-cheesecake.jpg",
+    "ingredients": [
+      {
+        "group": "Crust",
+        "items": [
+          "8 ounces/225g vanilla wafers or graham crackers (shy of 2 packages)",
+          "3 tablespoons/40g light brown sugar",
+          "6 tablespoons/85g unsalted butter, melted",
+          "Pinch of kosher salt"
+        ]
+      },
+      {
+        "group": "Filling",
+        "items": [
+          "1 pound/450g/two 8-ounce packages cream cheese, room temperature",
+          "1 cup/240ml/8 oz sour cream, full fat greek yogurt or labne",
+          "½ cup/100g granulated sugar",
+          "2 large eggs",
+          "2 tablespoons/12g finely grated citrus zest (lemon, lime, tangerine, etc)",
+          "Pinch of kosher salt",
+          "Thinly sliced citrus, for serving, optional"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "lemon-bars",
+    "title": "Lemon Bars",
+    "status": "favorite",
+    "categories": [
+      "dessert"
+    ],
+    "vegetarian": true,
+    "servings": "15",
+    "time": "1 hour",
+    "source": {
+      "label": "Magnolia",
+      "links": [
+        {
+          "text": "Magnolia",
+          "url": "https://magnolia.com/create/recipe/21a0e6cf-ff13-432f-a144-0732f05aefef/minas-lemon-bars/"
+        }
+      ]
+    },
+    "image": "images/lemon-bars.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "Nonstick baking spray or softened butter, for the pan",
+          "2 cups all-purpose flour",
+          "1/2 pound (2 sticks) salted butter, melted",
+          "1/2 cup powdered sugar, plus more for garnish",
+          "1/4 teaspoon sea salt",
+          "2 cups granulated sugar",
+          "4 eggs, slightly beaten",
+          "5 tablespoons fresh lemon juice (from about 2 lemons)"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "sweet-enough-scones",
+    "title": "Sweet Enough Scones",
+    "status": "favorite",
+    "categories": [
+      "breakfast",
+      "dessert"
+    ],
+    "vegetarian": true,
+    "servings": "8",
+    "time": "35 mins",
+    "source": {
+      "label": "Alison Roman",
+      "links": [
+        {
+          "text": "Alison Roman",
+          "url": "https://www.alisoneroman.com/recipes/sweet-enough-scones"
+        }
+      ]
+    },
+    "image": "images/sweet-enough-scones.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "½ cup/120g heavy cream, plus more for brushing",
+          "½ cup/110g sour cream",
+          "2 cups/290g all-purpose flour, plus more for the work surface",
+          "⅓ cup/70g sugar, plus more for sprinkling",
+          "1 tablespoon/12g baking powder",
+          "1 ¼ teaspoons/5g kosher salt",
+          "1 stick/4 ounces/115g cold unsalted butter, cut into small pieces",
+          "2½ cups/300g raspberries or blueberries, chopped strawberries, or halved blackberries",
+          "Flaky sea salt, to finish"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "lemon-cake-with-cream-cheese-frosting",
+    "title": "Lemon cake with cream cheese frosting",
+    "status": "favorite",
+    "categories": [
+      "dessert"
+    ],
+    "vegetarian": true,
+    "servings": "9",
+    "time": "3 hours",
+    "source": {
+      "label": "Food and Wine",
+      "links": [
+        {
+          "text": "Food and Wine",
+          "url": "https://www.foodandwine.com/recipes/lemon-cake-with-cream-cheese-frosting"
+        }
+      ]
+    },
+    "image": "images/lemon-cake-with-cream-cheese-frosting.jpg",
+    "ingredients": [
+      {
+        "group": "Lemon cake",
+        "items": [
+          "1 3/4 cups granulated sugar",
+          "1 tbsp grated lemon zest + 3 tbsp fresh lemon juice",
+          "3/4 cup extra-virgin olive oil",
+          "4 large eggs",
+          "1 cup whole milk",
+          "1 tsp vanilla extract",
+          "3/4 tsp fine sea salt",
+          "3 cups (12 3/4 oz) all-purpose flour",
+          "1 1/2 tsp baking powder",
+          "Cooking spray",
+          "3 tbsp honey (preferably orange blossom)"
+        ]
+      },
+      {
+        "group": "Cream cheese frosting",
+        "items": [
+          "1 (8 oz) package cream cheese, softened",
+          "1 tsp grated lemon zest plus 1 tablespoon fresh lemon juice",
+          "1/2 cup (4 oz) unsalted butter, softened",
+          "3 cups (12 oz) powdered sugar"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "torta-mantovana",
+    "title": "Torta Mantovana",
+    "status": "favorite",
+    "categories": [
+      "dessert"
+    ],
+    "vegetarian": true,
+    "servings": "8",
+    "time": "1 hour 30 minutes",
+    "source": {
+      "label": "Tuscan Recipes",
+      "links": [
+        {
+          "text": "Tuscan Recipes",
+          "url": "http://www.tuscanrecipes.com/recipes/torta-mantovana.html"
+        }
+      ]
+    },
+    "image": "images/torta-mantovana.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "3/4 cup (1 1/2 sticks) butter, melted",
+          "1 egg + 4 yolks",
+          "3/4 cup sugar",
+          "2 tsp grated lemon rind and juice",
+          "1 2/3 cup cake flour",
+          "1/2 cup pine nuts, halved crosswise",
+          "1 tsp baking powder"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Preheat the oven to 350F (about 180C).",
+          "In a large mixing bowl, beat the eggs and the sugar until the mixture turns pale yellow.",
+          "Add the lemon rind, the flour a bit at a time, the butter, and, finally, the baking powder.",
+          "Pour the batter into 9-inch baking pan that has been oiled and dusted with flour and powdered sugar",
+          "Sprinkle the surface of the cake with the nuts.",
+          "Bake the cake for about 50 minutes",
+          "Once the Mantovana has cooled, dust it with powdered sugar and serve"
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "apple-pie",
+    "title": "Apple Pie",
+    "status": "favorite",
+    "categories": [
+      "dessert"
+    ],
+    "vegetarian": true,
+    "servings": "8",
+    "time": "35 mins",
+    "source": {
+      "label": "All Recipes & Little Spoon Farm",
+      "links": [
+        {
+          "text": "All Recipes",
+          "url": "https://www.allrecipes.com/recipe/12492/pie-crust-iv/"
+        },
+        {
+          "text": "Little Spoon Farm",
+          "url": "https://littlespoonfarm.com/apple-pie-recipe/"
+        }
+      ]
+    },
+    "image": "images/apple-pie.jpg",
+    "ingredients": [
+      {
+        "group": "Crust",
+        "items": [
+          "½ cup vegetable shortening",
+          "1 ½ cups all-purpose flour",
+          "½ teaspoon salt",
+          "½ cup cold water"
+        ]
+      },
+      {
+        "group": "Filling",
+        "items": [
+          "7 large Granny Smith apples (peeled, cored and sliced into ½ inch slices)",
+          "½ cup granulated sugar",
+          "½ cup light brown sugar (loosely packed)",
+          "2 tablespoons all-purpose flour",
+          "1 teaspoon ground cinnamon",
+          "⅛ teaspoon ground nutmeg",
+          "1 tablespoon lemon juice (plus the zest of half of a lemon)",
+          "1 large egg"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  },
+  {
+    "id": "lemon-berry-glazed",
+    "title": "Lemon Berry Glazed",
+    "status": "favorite",
+    "categories": [
+      "dessert"
+    ],
+    "vegetarian": true,
+    "servings": "10",
+    "time": "1 hour",
+    "source": {
+      "label": "NYT",
+      "links": [
+        {
+          "text": "NYT",
+          "url": "https://cooking.nytimes.com/recipes/1027222-lemon-berry-quick-cake"
+        }
+      ]
+    },
+    "image": "images/lemon-berry-glazed.jpg",
+    "ingredients": [
+      {
+        "group": "Cake",
+        "items": [
+          "1 cup/240 milliliters good-quality olive oil, plus more for the pan",
+          "2 cups/250 grams all-purpose flour",
+          "2 teaspoons baking powder",
+          "½ teaspoon kosher salt (such as Diamond Crystal)",
+          "3 tablespoons finely grated lemon zest, plus ¼ cup lemon juice (from 3 to 4 lemons)",
+          "1 cup/200 grams granulated sugar, plus 2 to 3 teaspoons more for sprinkling",
+          "3 medium or large eggs, at room temperature",
+          "1 generous teaspoon vanilla paste or 2 teaspoons vanilla extract",
+          "½ cup/120 milliliters whole milk, at room temperature",
+          "1 heaping cup berries (blueberries, blackberries, raspberries or chopped strawberries), fresh or frozen",
+          "Powdered sugar, for sprinkling (optional)"
+        ]
+      },
+      {
+        "group": "Glaze",
+        "items": [
+          "1 cup powdered sugar",
+          "2 tablespoons fresh lemon juice"
+        ]
+      }
+    ],
+    "directions": [],
+    "notes": ""
+  }
+]
