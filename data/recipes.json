@@ -3237,5 +3237,54 @@
       }
     ],
     "notes": "Keep covered at room temperature for up to 3 days, then refrigerate for up to 2 more."
+  },
+  {
+    "id": "shakshuka",
+    "title": "Shakshuka",
+    "status": "favorite",
+    "owners": [
+      "emma"
+    ],
+    "categories": [
+      "entrees"
+    ],
+    "vegetarian": false,
+    "servings": "4",
+    "time": "20",
+    "source": {
+      "label": "Half baked harvest",
+      "links": []
+    },
+    "image": "images/shakshuka-mvzurugp.jpg",
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          "1/2 onion",
+          "3 garlic cloves",
+          "1 large can cannellini beans",
+          "1 large can diced tomatoes",
+          "Tomato paste",
+          "2 jalapeño peppers",
+          "3 eggs",
+          "1 small can sun dried tomatoes",
+          "1 avocado",
+          "Dill or other herbs"
+        ]
+      }
+    ],
+    "directions": [
+      {
+        "group": "",
+        "steps": [
+          "Add onion and garlic to pan first",
+          "Add beans for a few minutes",
+          "Add tomatoes for a few minutes",
+          "Create 3 wells and crack the eggs until desired consistency",
+          "Add in all other ingredients"
+        ]
+      }
+    ],
+    "notes": ""
   }
 ]
